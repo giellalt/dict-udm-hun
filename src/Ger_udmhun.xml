@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="udmhun" xml:lang="udm">
+<e>
+   <lg>
+     <l pos="GER">быгатыса</l>
+     <stg>
+       <st Contlex="GER_">быгатыса</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="GER">tudva</t>
+
+       <t pos="GER">értve hozzá</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="GER">бызьыса</l>
+     <stg>
+       <st Contlex="GER_">бызьыса</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="GER">futva</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="GER"> folyva</t>
+
+       <t pos="GER">áramolva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="GER">бызьытэк</l>
+     <stg>
+       <st Contlex="GER_">бызьытэк</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="GER">futás nélkül</t>
+     </tg>
+   </mg>
+</e>
+</r>

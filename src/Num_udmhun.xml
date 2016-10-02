@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="udmhun" xml:lang="udm">
+<e>
+   <lg>
+     <l pos="Num">биллион</l>
+     <stg>
+       <st Contlex="NUM_">биллион</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Num">milliárd</t>
+     </tg>
+   </mg>
+</e>
+</r>

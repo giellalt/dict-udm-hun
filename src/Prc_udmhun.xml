@@ -1,0 +1,2831 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="udmhun" xml:lang="udm">
+<e>
+   <lg>
+     <l pos="PRC">абдрам</l>
+     <stg>
+       <st Contlex="PRC_">абдрам</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">meglepett</t>
+
+       <t pos="PRC">elcsodálkozott</t>
+
+       <t pos="PRC">megörvendeztetett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">абдрамон</l>
+     <stg>
+       <st Contlex="PRC_">абдрамон</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">csodálandó</t>
+
+       <t pos="PRC">csodálni való</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">абызаськись</l>
+     <stg>
+       <st Contlex="PRC_">абызаськись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">kuruzsló</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> jósló</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">адресам</l>
+     <stg>
+       <st Contlex="PRC_">адресам</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">címzett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">адскымон</l>
+     <stg>
+       <st Contlex="PRC_">адскымон</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">látható</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">адымась</l>
+     <stg>
+       <st Contlex="PRC_">адымась</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">poroszkáló</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">адӟем</l>
+     <stg>
+       <st Contlex="PRC_">адӟем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">látott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">адӟись</l>
+     <stg>
+       <st Contlex="PRC_">адӟись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">látó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">адӟиськем</l>
+     <stg>
+       <st Contlex="PRC_">адӟиськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">látott</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">адӟиськымон</l>
+     <stg>
+       <st Contlex="PRC_">адӟиськымон</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">látható</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">адӟылӥсь</l>
+     <stg>
+       <st Contlex="PRC_">адӟылӥсь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">látó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">адӟымон</l>
+     <stg>
+       <st Contlex="PRC_">адӟымон</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">látható</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> követendő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">адӟытӥсь</l>
+     <stg>
+       <st Contlex="PRC_">адӟытӥсь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">bemutató</t>
+
+       <t pos="PRC">demonstráló</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азвесьвуам</l>
+     <stg>
+       <st Contlex="PRC_">азвесьвуам</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">ezüstözött</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азвесям</l>
+     <stg>
+       <st Contlex="PRC_">азвесям</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">ezüstözött</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азгынмем</l>
+     <stg>
+       <st Contlex="PRC_">азгынмем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">ellustult</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> lezüllött</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азинскем</l>
+     <stg>
+       <st Contlex="PRC_">азинскем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">előrejutott</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> megelőzött</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> fejlett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азинтӥськем</l>
+     <stg>
+       <st Contlex="PRC_">азинтӥськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">előrejutott</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> megelőzött</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> fejlett</t>
+
+       <t pos="PRC">kifejlődött</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азъяськем</l>
+     <stg>
+       <st Contlex="PRC_">азъяськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">szárbaszökkent a hagyma</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> kivirágzott pl. káposzta, retek</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азьвылскем</l>
+     <stg>
+       <st Contlex="PRC_">азьвылскем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">megelőzött</t>
+
+       <t pos="PRC">leelőzött</t>
+
+       <t pos="PRC">lehagyott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азьвылскись</l>
+     <stg>
+       <st Contlex="PRC_">азьвылскись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">megelőző</t>
+
+       <t pos="PRC">lehagyó</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> előre haladó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азьвылтылэм</l>
+     <stg>
+       <st Contlex="PRC_">азьвылтылэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">leelőzött</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> előbbre jutott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азьвылтӥськем</l>
+     <stg>
+       <st Contlex="PRC_">азьвылтӥськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">megelőző</t>
+
+       <t pos="PRC">lehagyó</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> előre haladó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азьвылтӥськись</l>
+     <stg>
+       <st Contlex="PRC_">азьвылтӥськись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">megelőző</t>
+
+       <t pos="PRC">lehagyó</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> előre haladó</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> stréber</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азьланьскем</l>
+     <stg>
+       <st Contlex="PRC_">азьланьскем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">haladó</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> fejlődő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азьланьтӥськем</l>
+     <stg>
+       <st Contlex="PRC_">азьланьтӥськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">fejlődő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азьмынӥсь</l>
+     <stg>
+       <st Contlex="PRC_">азьмынӥсь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">elöl haladó</t>
+
+       <t pos="PRC">elöl járó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азьпалтэм</l>
+     <stg>
+       <st Contlex="PRC_">азьпалтэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">megelőzött</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азьпалтӥськем</l>
+     <stg>
+       <st Contlex="PRC_">азьпалтӥськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">megelőzött</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азьтэмскись</l>
+     <stg>
+       <st Contlex="PRC_">азьтэмскись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">lustálkodó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">азэм</l>
+     <stg>
+       <st Contlex="PRC_">азэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">rozsnok-</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">актэмъяськись</l>
+     <stg>
+       <st Contlex="PRC_">актэмъяськись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">pajkos</t>
+
+       <t pos="PRC">csintalan</t>
+
+       <t pos="PRC">csintalankodó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">акылляськись</l>
+     <stg>
+       <st Contlex="PRC_">акылляськись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">szemtelenkedő</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> csintalankodó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">акыльтэм</l>
+     <stg>
+       <st Contlex="PRC_">акыльтэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">megunt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">акыльтэмъяськем</l>
+     <stg>
+       <st Contlex="PRC_">акыльтэмъяськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">csintalan</t>
+
+       <t pos="PRC">pajkos</t>
+
+       <t pos="PRC">szemtelen</t>
+
+       <t pos="PRC">nem engedelmeskedő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">акыльтэмъяськись</l>
+     <stg>
+       <st Contlex="PRC_">акыльтэмъяськись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">csintalan</t>
+
+       <t pos="PRC">pajkos</t>
+
+       <t pos="PRC">szemtelen</t>
+
+       <t pos="PRC">nem engedelmeskedő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">алдам</l>
+     <stg>
+       <st Contlex="PRC_">алдам</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">hamis</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC">hamisított</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">алдась</l>
+     <stg>
+       <st Contlex="PRC_">алдась</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">hazudó</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> megcsaló</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> elvesztő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">алдаськем</l>
+     <stg>
+       <st Contlex="PRC_">алдаськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">hazudó</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> csaló</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">алдаськись</l>
+     <stg>
+       <st Contlex="PRC_">алдаськись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">hazudó</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> csaló</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">алекъяськись</l>
+     <stg>
+       <st Contlex="PRC_">алекъяськись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">ideges</t>
+
+       <t pos="PRC">indulatos</t>
+
+       <t pos="PRC">ingerlékeny</t>
+
+       <t pos="PRC">kiegyensúlyozatlan</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> besúgó</t>
+
+       <t pos="PRC">árulkodó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">алляськись</l>
+     <stg>
+       <st Contlex="PRC_">алляськись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">hullámzó</t>
+
+       <t pos="PRC">lengő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">алышмем</l>
+     <stg>
+       <st Contlex="PRC_">алышмем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">mohó</t>
+
+       <t pos="PRC">kapzsi</t>
+
+       <t pos="PRC">telhetetlen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">альсырам</l>
+     <stg>
+       <st Contlex="PRC_">альсырам</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">elgyengült</t>
+
+       <t pos="PRC">elfáradt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">альтэм</l>
+     <stg>
+       <st Contlex="PRC_">альтэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">fújt</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> elterjedt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">алэм</l>
+     <stg>
+       <st Contlex="PRC_">алэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">tiltott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">алям</l>
+     <stg>
+       <st Contlex="PRC_">алям</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">elterjedt</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> keletkezett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">алясь</l>
+     <stg>
+       <st Contlex="PRC_">алясь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">terjedő</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> keletkező</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">амалскем</l>
+     <stg>
+       <st Contlex="PRC_">амалскем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">tettetett</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> furfangos</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">амалтэм</l>
+     <stg>
+       <st Contlex="PRC_">амалтэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">akaratlan</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> készség</t>
+
+       <t pos="PRC">intelligencia nélküli</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> trükkök nélküli</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">амалтӥськем</l>
+     <stg>
+       <st Contlex="PRC_">амалтӥськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">értő</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> tettető</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">аналмем</l>
+     <stg>
+       <st Contlex="PRC_">аналмем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">gondozatlan</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> figyelmen kívül hagyott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">аналскем</l>
+     <stg>
+       <st Contlex="PRC_">аналскем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">szimulált</t>
+
+       <t pos="PRC">tettetett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">аналскись</l>
+     <stg>
+       <st Contlex="PRC_">аналскись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">szimuláló</t>
+
+       <t pos="PRC">tettető</t>
+
+       <t pos="PRC">lusta</t>
+
+       <t pos="PRC">érdektelen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">аналтэм</l>
+     <stg>
+       <st Contlex="PRC_">аналтэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">őrizetlen</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> befejezetlen</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> elhanyagolt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">аналтӥськем</l>
+     <stg>
+       <st Contlex="PRC_">аналтӥськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">szimulált</t>
+
+       <t pos="PRC">tettetett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">аналтӥськись</l>
+     <stg>
+       <st Contlex="PRC_">аналтӥськись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">szimuláló</t>
+
+       <t pos="PRC">tettető</t>
+
+       <t pos="PRC">lusta</t>
+
+       <t pos="PRC">érdektelen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">арам</l>
+     <stg>
+       <st Contlex="PRC_">арам</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">aratott</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> leégett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">арась</l>
+     <stg>
+       <st Contlex="PRC_">арась</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">arató</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">аратӥсь</l>
+     <stg>
+       <st Contlex="PRC_">аратӥсь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">arattató</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> meggyújtató</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">ашкынэм</l>
+     <stg>
+       <st Contlex="PRC_">ашкынэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">elvadult</t>
+
+       <t pos="PRC">féktelen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бабем</l>
+     <stg>
+       <st Contlex="PRC_">бабем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">elaludt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бабись</l>
+     <stg>
+       <st Contlex="PRC_">бабись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">alvó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бабыльскем</l>
+     <stg>
+       <st Contlex="PRC_">бабыльскем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">göndörödött</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> bodorodott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бабыльтэм</l>
+     <stg>
+       <st Contlex="PRC_">бабыльтэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">göndörített</t>
+
+       <t pos="PRC">bodorított</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> gyúrt</t>
+
+       <t pos="PRC">formált</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> ványolt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бабыльтӥськем</l>
+     <stg>
+       <st Contlex="PRC_">бабыльтӥськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">göndörödött</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> bodorodott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бадӟыматэм</l>
+     <stg>
+       <st Contlex="PRC_">бадӟыматэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">nagyított</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> eltúlzott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бадӟыматӥсь</l>
+     <stg>
+       <st Contlex="PRC_">бадӟыматӥсь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">nagyító</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бадӟыматӥськем</l>
+     <stg>
+       <st Contlex="PRC_">бадӟыматӥськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">megnőtt</t>
+
+       <t pos="PRC">nagyobbá lett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бадӟымъяськем</l>
+     <stg>
+       <st Contlex="PRC_">бадӟымъяськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">elbizakodott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бадӟымъяськись</l>
+     <stg>
+       <st Contlex="PRC_">бадӟымъяськись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">elbizakodó</t>
+
+       <t pos="PRC">nagyképű</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">базлась</l>
+     <stg>
+       <st Contlex="PRC_">базлась</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">kiabáló</t>
+
+       <t pos="PRC">hangoskodó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">байланӥсь</l>
+     <stg>
+       <st Contlex="PRC_">байланӥсь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">kötekedő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бакчись</l>
+     <stg>
+       <st Contlex="PRC_">бакчись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">dadogó</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> megnémuló</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">басьтэм</l>
+     <stg>
+       <st Contlex="PRC_">басьтэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">vett</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> szerzett</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> nyert</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">басьтӥсь</l>
+     <stg>
+       <st Contlex="PRC_">басьтӥсь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">vevő</t>
+
+       <t pos="PRC">vásárló</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> szerző</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> nyerő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">басьтӥськись</l>
+     <stg>
+       <st Contlex="PRC_">басьтӥськись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">bevásárló</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">басьяськем</l>
+     <stg>
+       <st Contlex="PRC_">басьяськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">megvásárolt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">басьяськись</l>
+     <stg>
+       <st Contlex="PRC_">басьяськись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">vásárló</t>
+
+       <t pos="PRC">vevő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">батыръяськем</l>
+     <stg>
+       <st Contlex="PRC_">батыръяськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">bátornak tettetett</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> büszkélkedett</t>
+
+       <t pos="PRC">dicsekedett</t>
+
+       <t pos="PRC">hencegett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">батыръяськись</l>
+     <stg>
+       <st Contlex="PRC_">батыръяськись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">büszkélkedő</t>
+
+       <t pos="PRC">dicsekvő</t>
+
+       <t pos="PRC">hencegő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бездэм</l>
+     <stg>
+       <st Contlex="PRC_">бездэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">fakult</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> vedlett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бекмылляськем</l>
+     <stg>
+       <st Contlex="PRC_">бекмылляськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">megdőlt</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> eldőlt</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> elmerült</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бекмыльтӥськем</l>
+     <stg>
+       <st Contlex="PRC_">бекмыльтӥськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">megdőlt</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> eldőlt</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> elmerült</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бекырскем</l>
+     <stg>
+       <st Contlex="PRC_">бекырскем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">eldőlt</t>
+
+       <t pos="PRC">megdőlt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бералскем</l>
+     <stg>
+       <st Contlex="PRC_">бералскем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">kificamosott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бералтӥськем</l>
+     <stg>
+       <st Contlex="PRC_">бералтӥськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">kificamodott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бергам</l>
+     <stg>
+       <st Contlex="PRC_">бергам</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">forgó</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> táncoló</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">берланьскем</l>
+     <stg>
+       <st Contlex="PRC_">берланьскем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">hátrafordult</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> visszavont</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> szenilissé vált</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">берланьтӥськем</l>
+     <stg>
+       <st Contlex="PRC_">берланьтӥськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">hátra fordult</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> visszavont</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> szenilis lett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бертэм</l>
+     <stg>
+       <st Contlex="PRC_">бертэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">hazatért</t>
+
+       <t pos="PRC">visszatért</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бертӥсь</l>
+     <stg>
+       <st Contlex="PRC_">бертӥсь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">visszatérő</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> visszamenő</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> hazatérő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">берыктэм</l>
+     <stg>
+       <st Contlex="PRC_">берыктэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">fordított</t>
+
+       <t pos="PRC">átfordított</t>
+
+       <t pos="PRC">megfordított</t>
+
+       <t pos="PRC">kifordított</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> lefordított</t>
+
+       <t pos="PRC">tolmácsolt</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> visszaadott</t>
+
+       <t pos="PRC">visszahozott</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> visszafizetett</t>
+
+       <t pos="PRC">megfizetett</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> lepárolt</t>
+
+       <t pos="PRC">desztillált</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">берыктӥсь</l>
+     <stg>
+       <st Contlex="PRC_">берыктӥсь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">fordító</t>
+
+       <t pos="PRC">átfordító</t>
+
+       <t pos="PRC">megfordító</t>
+
+       <t pos="PRC">kifordító</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> lefordító</t>
+
+       <t pos="PRC">tolmácsoló</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> visszaadó</t>
+
+       <t pos="PRC">visszahozó</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> visszafizető</t>
+
+       <t pos="PRC">megfizető</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> lepárló</t>
+
+       <t pos="PRC">desztilláló</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">берыктӥськем</l>
+     <stg>
+       <st Contlex="PRC_">берыктӥськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">visszafordult</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> felé fordult</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> átfordult</t>
+
+       <t pos="PRC">átváltozott</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> lepárlódott</t>
+
+       <t pos="PRC">desztillálódott</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> szédült</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> megalvadt</t>
+
+       <t pos="PRC">koagulált</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">берытскем</l>
+     <stg>
+       <st Contlex="PRC_">берытскем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">visszafordult</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> felé fordult</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> átfordult</t>
+
+       <t pos="PRC">átváltozott</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> lepárlódott</t>
+
+       <t pos="PRC">desztillálódott</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> szédült</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> megalvadt</t>
+
+       <t pos="PRC">koagulált</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бинем</l>
+     <stg>
+       <st Contlex="PRC_">бинем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">tekert</t>
+
+       <t pos="PRC">kötegelt</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> csomagolt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">биниськем</l>
+     <stg>
+       <st Contlex="PRC_">биниськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">feltekeredett</t>
+
+       <t pos="PRC">rátekeredett</t>
+
+       <t pos="PRC">összetekeredett</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> felcsavarodott</t>
+
+       <t pos="PRC">rácsavarodott</t>
+
+       <t pos="PRC">összecsavarodott</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> összekuszálódott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">биньылэм</l>
+     <stg>
+       <st Contlex="PRC_">биньылэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">feltekert</t>
+
+       <t pos="PRC">rátekert</t>
+
+       <t pos="PRC">összetekert</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> felgöngyölített</t>
+
+       <t pos="PRC">felcsavart</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> begöngyölt</t>
+
+       <t pos="PRC">becsavart</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> bekötözött</t>
+
+       <t pos="PRC">bekötött</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> pelenkázott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">биняллям</l>
+     <stg>
+       <st Contlex="PRC_">биняллям</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">csomagolt</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> feltekert</t>
+
+       <t pos="PRC">felcsavart</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> pelenkázott</t>
+
+       <t pos="PRC">pólyált</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бинялтэм</l>
+     <stg>
+       <st Contlex="PRC_">бинялтэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">feltekert</t>
+
+       <t pos="PRC">felgöngyölt</t>
+
+       <t pos="PRC">felcsavart</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> begöngyölt</t>
+
+       <t pos="PRC">becsavart</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> bepelenkázott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бирдыяськем</l>
+     <stg>
+       <st Contlex="PRC_">бирдыяськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">begombolkozott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бичалляськем</l>
+     <stg>
+       <st Contlex="PRC_">бичалляськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">szedett</t>
+
+       <t pos="PRC">begyűjtött</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> megvásárolt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бичам</l>
+     <stg>
+       <st Contlex="PRC_">бичам</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">szedett</t>
+
+       <t pos="PRC">begyűjtött</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> megvásárolt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бичась</l>
+     <stg>
+       <st Contlex="PRC_">бичась</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">szedő</t>
+
+       <t pos="PRC">gyűjtő</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> vásárló</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бичаськись</l>
+     <stg>
+       <st Contlex="PRC_">бичаськись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">szedő</t>
+
+       <t pos="PRC">gyűjtő</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> vásárló</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бичатӥсь</l>
+     <stg>
+       <st Contlex="PRC_">бичатӥсь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">vásároltató</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> csiklandozó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бозгетӥсь</l>
+     <stg>
+       <st Contlex="PRC_">бозгетӥсь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">zúgó</t>
+
+       <t pos="PRC">dongó</t>
+
+       <t pos="PRC">zümmögő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бордъяськем</l>
+     <stg>
+       <st Contlex="PRC_">бордъяськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">gombolyagba tekert</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">борӟаськем</l>
+     <stg>
+       <st Contlex="PRC_">борӟаськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">fonott</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> bereteszelt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бугыръяськем</l>
+     <stg>
+       <st Contlex="PRC_">бугыръяськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">gomolygott</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> zendült</t>
+
+       <t pos="PRC">lázadt</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> hullámzott</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> nyüzsgött</t>
+
+       <t pos="PRC">hemzsegett</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> fortyogott</t>
+
+       <t pos="PRC">bugyborékolt</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> vminek nekiverődött</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бугыръяськись</l>
+     <stg>
+       <st Contlex="PRC_">бугыръяськись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">gomolygó</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> zendülő</t>
+
+       <t pos="PRC">lázadó</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> hullámzó</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> nyüzsgő</t>
+
+       <t pos="PRC">hemzsegő</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> fortyogó</t>
+
+       <t pos="PRC">bugyborékoló</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> vminek nekiverődő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">будэм</l>
+     <stg>
+       <st Contlex="PRC_">будэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">nőtt</t>
+
+       <t pos="PRC">nevelkedett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">буйгатскем</l>
+     <stg>
+       <st Contlex="PRC_">буйгатскем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">megnyugodott</t>
+
+       <t pos="PRC">lecsillapodott</t>
+
+       <t pos="PRC">elcsendesedett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">буйгатъям</l>
+     <stg>
+       <st Contlex="PRC_">буйгатъям</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">megnyugodott</t>
+
+       <t pos="PRC">lecsillapodott</t>
+
+       <t pos="PRC">elcsendesedett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">буйгатӥсь</l>
+     <stg>
+       <st Contlex="PRC_">буйгатӥсь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">megnyugtató</t>
+
+       <t pos="PRC">lecsillapító</t>
+
+       <t pos="PRC">elcsendesítő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">буйгатӥськем</l>
+     <stg>
+       <st Contlex="PRC_">буйгатӥськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">megnyugodott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бушам</l>
+     <stg>
+       <st Contlex="PRC_">бушам</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">kiürült</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бушатэм</l>
+     <stg>
+       <st Contlex="PRC_">бушатэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">kiürített</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> kirakott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">буям</l>
+     <stg>
+       <st Contlex="PRC_">буям</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">festett</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> kétségbeesett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">буясь</l>
+     <stg>
+       <st Contlex="PRC_">буясь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">festő</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> kétségbeeső</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">буёлась</l>
+     <stg>
+       <st Contlex="PRC_">буёлась</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">festő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">буёласькем</l>
+     <stg>
+       <st Contlex="PRC_">буёласькем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">festett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">буёласькись</l>
+     <stg>
+       <st Contlex="PRC_">буёласькись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">festékessé váló</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> festő</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> sminkelő</t>
+
+       <t pos="PRC"></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">быгатымон</l>
+     <stg>
+       <st Contlex="PRC_">быгатымон</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">teljesen megvalósítható</t>
+
+       <t pos="PRC">teljesen lehetséges</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">быгатӥсь</l>
+     <stg>
+       <st Contlex="PRC_">быгатӥсь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">képes</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> hozzáértő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">быгыльмем</l>
+     <stg>
+       <st Contlex="PRC_">быгыльмем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">összetekeredett</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> kikerekedett</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> eltompult</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">быдтэм</l>
+     <stg>
+       <st Contlex="PRC_">быдтэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">elvégzett</t>
+
+       <t pos="PRC">bevégzett</t>
+
+       <t pos="PRC">befejezett</t>
+
+       <t pos="PRC">teljessé tett</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> elfogyasztott</t>
+
+       <t pos="PRC">felemésztett</t>
+
+       <t pos="PRC">elköltött</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> tönkre tett</t>
+
+       <t pos="PRC">elpusztítot</t>
+
+       <t pos="PRC">megölt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">быдэсмем</l>
+     <stg>
+       <st Contlex="PRC_">быдэсмем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">befejezett</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> felnőtté vált</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> megvalósult</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">быдӟияськем</l>
+     <stg>
+       <st Contlex="PRC_">быдӟияськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">gőgös</t>
+
+       <t pos="PRC">dölyfös</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">быдӟымъяськем</l>
+     <stg>
+       <st Contlex="PRC_">быдӟымъяськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">nagyzolt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">быдӟымъяськись</l>
+     <stg>
+       <st Contlex="PRC_">быдӟымъяськись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">nagyzoló</t>
+
+       <t pos="PRC">felvágó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бызгетэм</l>
+     <stg>
+       <st Contlex="PRC_">бызгетэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">körbe zümmögött</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> megdörmögött</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> megsiratott</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бызем</l>
+     <stg>
+       <st Contlex="PRC_">бызем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">lefutott</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> férjezett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="PRC">бызись</l>
+     <stg>
+       <st Contlex="PRC_">бызись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="PRC">futó</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="PRC"> áramló</t>
+     </tg>
+   </mg>
+</e>
+</r>

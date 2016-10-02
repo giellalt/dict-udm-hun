@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="udmhun" xml:lang="udm">
+<e>
+   <lg>
+     <l pos="N" type="Prop">Австрия</l>
+     <stg>
+       <st Contlex="PROP_">Австрия</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Ausztria</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Азербайджан</l>
+     <stg>
+       <st Contlex="PROP_">Азербайджан</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Azerbajdzsán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Азия</l>
+     <stg>
+       <st Contlex="PROP_">Азия</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Ázsia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Америка</l>
+     <stg>
+       <st Contlex="PROP_">Америка</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Amerika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Армения</l>
+     <stg>
+       <st Contlex="PROP_">Армения</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Örményország</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Африка</l>
+     <stg>
+       <st Contlex="PROP_">Африка</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Afrika</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Башкортостан</l>
+     <stg>
+       <st Contlex="PROP_">Башкортостан</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Baskíria</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Белоруссия</l>
+     <stg>
+       <st Contlex="PROP_">Белоруссия</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Fehéroroszország</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Блумингтон</l>
+     <stg>
+       <st Contlex="PROP_">Блумингтон</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Bloomington</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Вало</l>
+     <stg>
+       <st Contlex="PROP_">Вало</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Valo</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ватка</l>
+     <stg>
+       <st Contlex="PROP_">Ватка</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Vatka</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Венгрия</l>
+     <stg>
+       <st Contlex="PROP_">Венгрия</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Magyarország</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Воткакар</l>
+     <stg>
+       <st Contlex="PROP_">Воткакар</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Votkinszk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Германия</l>
+     <stg>
+       <st Contlex="PROP_">Германия</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Németország</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Глазкар</l>
+     <stg>
+       <st Contlex="PROP_">Глазкар</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Glazov</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Грузия</l>
+     <stg>
+       <st Contlex="PROP_">Грузия</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Grúzia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Европа</l>
+     <stg>
+       <st Contlex="PROP_">Европа</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Európa</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ижкар</l>
+     <stg>
+       <st Contlex="PROP_">Ижкар</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Izsevszk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Инмар</l>
+     <stg>
+       <st Contlex="PROP_">Инмар</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Isten</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Италия</l>
+     <stg>
+       <st Contlex="PROP_">Италия</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Olaszország</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Казахстан</l>
+     <stg>
+       <st Contlex="PROP_">Казахстан</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Kazahsztán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Калмез</l>
+     <stg>
+       <st Contlex="PROP_">Калмез</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Kalmez</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Кам</l>
+     <stg>
+       <st Contlex="PROP_">Кам</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Káma</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Канада</l>
+     <stg>
+       <st Contlex="PROP_">Канада</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Kanada</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Карпушата</l>
+     <stg>
+       <st Contlex="PROP_">Карпушата</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Karpusata</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Кез</l>
+     <stg>
+       <st Contlex="PROP_">Кез</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Kez</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Киев</l>
+     <stg>
+       <st Contlex="PROP_">Киев</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Kijev</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Киргизия</l>
+     <stg>
+       <st Contlex="PROP_">Киргизия</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Kirgizia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Китай</l>
+     <stg>
+       <st Contlex="PROP_">Китай</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Kína</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Куба</l>
+     <stg>
+       <st Contlex="PROP_">Куба</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Kuba</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Кузон</l>
+     <stg>
+       <st Contlex="PROP_">Кузон</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Kazány</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Курег</l>
+     <stg>
+       <st Contlex="PROP_">Курег</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Kureg</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Кырыкмас</l>
+     <stg>
+       <st Contlex="PROP_">Кырыкмас</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Kirikmasz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Латвия</l>
+     <stg>
+       <st Contlex="PROP_">Латвия</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Lettország</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Литва</l>
+     <stg>
+       <st Contlex="PROP_">Литва</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Litvánia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Марий Эл</l>
+     <stg>
+       <st Contlex="PROP_">Марий Эл</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Mari El/Mariföld/Mari Köztársaság</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Молдавия</l>
+     <stg>
+       <st Contlex="PROP_">Молдавия</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Moldávia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Монголия</l>
+     <stg>
+       <st Contlex="PROP_">Монголия</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Mongólia</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Оӵ</l>
+     <stg>
+       <st Contlex="PROP_">Оӵ</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Izs</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Пермь</l>
+     <stg>
+       <st Contlex="PROP_">Пермь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Perm</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Пурга</l>
+     <stg>
+       <st Contlex="PROP_">Пурга</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Purga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Россия</l>
+     <stg>
+       <st Contlex="PROP_">Россия</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Oroszország</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Санкт Петербург</l>
+     <stg>
+       <st Contlex="PROP_">Санкт Петербург</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Szentpétervár</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Сарапул</l>
+     <stg>
+       <st Contlex="PROP_">Сарапул</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Szarapul</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Советской Союз</l>
+     <stg>
+       <st Contlex="PROP_">Сове́тской Союз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Szovjetunió</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Таджикистан</l>
+     <stg>
+       <st Contlex="PROP_">Таджикистан</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Tadzsikisztán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Татарстан</l>
+     <stg>
+       <st Contlex="PROP_">Татарстан</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Tatársztán/Tatárföld</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Туркмения</l>
+     <stg>
+       <st Contlex="PROP_">Туркмения</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Türkmenisztán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Удмуртия</l>
+     <stg>
+       <st Contlex="PROP_">Удмуртия</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Udmurt Köztársaság/Udmurtföld</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Узбекистан</l>
+     <stg>
+       <st Contlex="PROP_">Узбекистан</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Üzbegisztán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Украина</l>
+     <stg>
+       <st Contlex="PROP_">Украина</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Ukrajna</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Урал</l>
+     <stg>
+       <st Contlex="PROP_">Урал</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Ural</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Финляндия</l>
+     <stg>
+       <st Contlex="PROP_">Финляндия</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Finnország</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Чупчи</l>
+     <stg>
+       <st Contlex="PROP_">Чупчи</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Csepca</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Эстония</l>
+     <stg>
+       <st Contlex="PROP_">Эстония</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="N" type="Prop">Észtország</t>
+     </tg>
+   </mg>
+</e>
+</r>

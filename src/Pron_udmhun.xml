@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="udmhun" xml:lang="udm">
+<e>
+   <lg>
+     <l pos="Pron">ас</l>
+     <stg>
+       <st Contlex="PRON_">ас</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">maga</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Pron"> saját</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">аслад</l>
+     <stg>
+       <st Contlex="PRON_">аслад</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">tied</t>
+
+       <t pos="Pron">sajátod</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">аслаз</l>
+     <stg>
+       <st Contlex="PRON_">аслаз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">övé</t>
+
+       <t pos="Pron">sajátja</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">аслам</l>
+     <stg>
+       <st Contlex="PRON_">аслам</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">enyém</t>
+
+       <t pos="Pron">sajátom</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">аслыд</l>
+     <stg>
+       <st Contlex="PRON_">аслыд</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">magadnak</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">аслыз</l>
+     <stg>
+       <st Contlex="PRON_">аслыз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">magának</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">аслым</l>
+     <stg>
+       <st Contlex="PRON_">аслым</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">magamnak</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">аслэсьтыд</l>
+     <stg>
+       <st Contlex="PRON_">аслэсьтыд</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">tőled</t>
+
+       <t pos="Pron">magadtól</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">аслэсьтыз</l>
+     <stg>
+       <st Contlex="PRON_">аслэсьтыз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">tőle</t>
+
+       <t pos="Pron">magától</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">аслэсьтым</l>
+     <stg>
+       <st Contlex="PRON_">аслэсьтым</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">tőlem</t>
+
+       <t pos="Pron">magamtól</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">асме</l>
+     <stg>
+       <st Contlex="PRON_">асме</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">magamat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">астэ</l>
+     <stg>
+       <st Contlex="PRON_">астэ</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">magát</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">асьме</l>
+     <stg>
+       <st Contlex="PRON_">асьме</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">mienk: az enyém és a tied, ill. tiétek</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">асьмелы</l>
+     <stg>
+       <st Contlex="PRON_">асьмелы</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">nekünk: nekem és neked, ill. nektek</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">асьмелэн</l>
+     <stg>
+       <st Contlex="PRON_">асьмелэн</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">a mi ...-nk: az én és te, ill. ti ...</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">асьмелэсь</l>
+     <stg>
+       <st Contlex="PRON_">асьмелэсь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">mienktől: az enyémtől és a tiedtől, ill. tietektől</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">асьмеос</l>
+     <stg>
+       <st Contlex="PRON_">асьмеос</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">mi magunk</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Pron"> mi: én és te, ill. ti</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Pron"> a mieink</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">асьсэ коже</l>
+     <stg>
+       <st Contlex="PRON_">асьсэ коже</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">ők maguk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">асьсэ</l>
+     <stg>
+       <st Contlex="PRON_">асьсэ</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">az övék</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">асьсэлы</l>
+     <stg>
+       <st Contlex="PRON_">асьсэлы</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">nekik</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">асьсэлэн</l>
+     <stg>
+       <st Contlex="PRON_">асьсэлэн</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">az ő ...jük</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">асьсэос</l>
+     <stg>
+       <st Contlex="PRON_">асьсэос</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">ők maguk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">асьсэёс</l>
+     <stg>
+       <st Contlex="PRON_">асьсэёс</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">ők maguk</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">асьтэ</l>
+     <stg>
+       <st Contlex="PRON_">асьтэ</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">a ti sajátotok</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">асьтэдыз</l>
+     <stg>
+       <st Contlex="PRON_">асьтэдыз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">a ti sajátotokat</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">асьтэлы</l>
+     <stg>
+       <st Contlex="PRON_">асьтэлы</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">nektek magatoknak</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">асьтэлэн</l>
+     <stg>
+       <st Contlex="PRON_">асьтэлэн</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">a ti sajátotok</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">асьтэлэсь</l>
+     <stg>
+       <st Contlex="PRON_">асьтэлэсь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">a ti sajátotoktól</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ачид</l>
+     <stg>
+       <st Contlex="PRON_">ачид</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">te magad</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ачиз</l>
+     <stg>
+       <st Contlex="PRON_">ачиз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">ő maga</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ачим</l>
+     <stg>
+       <st Contlex="PRON_">ачим</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">én magam</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ачимлэн</l>
+     <stg>
+       <st Contlex="PRON_">ачимлэн</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pron">magamé</t>
+     </tg>
+   </mg>
+</e>
+</r>

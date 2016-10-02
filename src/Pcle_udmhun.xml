@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="udmhun" xml:lang="udm">
+<e>
+   <lg>
+     <l pos="Pcle">айбат</l>
+     <stg>
+       <st Contlex="PCLE_">айбат</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">(üdvözlet)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">айда</l>
+     <stg>
+       <st Contlex="PCLE_">айда</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">rajta</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">айко</l>
+     <stg>
+       <st Contlex="PCLE_">айко</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">ajaj</t>
+
+       <t pos="Pcle">jaj</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">акак</l>
+     <stg>
+       <st Contlex="PCLE_">акак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">pfúj!</t>
+
+       <t pos="Pcle">a rossz, a csúnya dolog</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">акры</l>
+     <stg>
+       <st Contlex="PCLE_">акры</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">valószínűleg</t>
+
+       <t pos="Pcle">feltehetőleg</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">акыр</l>
+     <stg>
+       <st Contlex="PCLE_">акыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">valószínűleg</t>
+
+       <t pos="Pcle">feltehetőleg</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">алай</l>
+     <stg>
+       <st Contlex="PCLE_">алай</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">vagy</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">али</l>
+     <stg>
+       <st Contlex="PCLE_">али</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">hát</t>
+
+       <t pos="Pcle">aztán</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Pcle"> csak</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">аль</l>
+     <stg>
+       <st Contlex="PCLE_">аль</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">hát</t>
+
+       <t pos="Pcle">aztán</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Pcle"> csak</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">аминь</l>
+     <stg>
+       <st Contlex="PCLE_">аминь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">ámen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">арна</l>
+     <stg>
+       <st Contlex="PCLE_">арна</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">valószínűleg</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">бадӟын инмаре лудэ</l>
+     <stg>
+       <st Contlex="PCLE_">бадӟын инмаре лудэ</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">Uram, Istenem!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">бен</l>
+     <stg>
+       <st Contlex="PCLE_">бен</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">igen</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Pcle"> hát</t>
+
+       <t pos="Pcle">dehát</t>
+
+       <t pos="Pcle">nos</t>
+
+       <t pos="Pcle">aztán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">бо</l>
+     <stg>
+       <st Contlex="PCLE_">бо</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">igen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">бон</l>
+     <stg>
+       <st Contlex="PCLE_">бон</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">igen</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Pcle"> hát</t>
+
+       <t pos="Pcle">dehát</t>
+
+       <t pos="Pcle">nos</t>
+
+       <t pos="Pcle">aztán</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Pcle"></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">бугай</l>
+     <stg>
+       <st Contlex="PCLE_">бугай</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">valószínűleg</t>
+
+       <t pos="Pcle">hihetőleg</t>
+
+       <t pos="Pcle">láthatólag</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">буди</l>
+     <stg>
+       <st Contlex="PCLE_">буди</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">lehet</t>
+
+       <t pos="Pcle">valószínűleg</t>
+
+       <t pos="Pcle">bizonyása</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">будьто</l>
+     <stg>
+       <st Contlex="PCLE_">будьто</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">mintha</t>
+
+       <t pos="Pcle">szinte</t>
+
+       <t pos="Pcle">talán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">быгай</l>
+     <stg>
+       <st Contlex="PCLE_">быгай</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">valószínűleg</t>
+
+       <t pos="Pcle">hihetőleg</t>
+
+       <t pos="Pcle">láthatólag</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">быдысь ик</l>
+     <stg>
+       <st Contlex="PCLE_">быдысь ик</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">kérem</t>
+
+       <t pos="Pcle">nagyon kérem</t>
+     </tg>
+   </mg>
+</e>
+</r>

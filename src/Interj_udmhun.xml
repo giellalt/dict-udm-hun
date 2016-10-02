@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="udmhun" xml:lang="udm">
+<e>
+   <lg>
+     <l pos="INTERJ">а-а-а</l>
+     <stg>
+       <st Contlex="INTERJ_">а-а-а</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">igen</t>
+
+       <t pos="INTERJ">igen-igen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">ай-ай-ай</l>
+     <stg>
+       <st Contlex="INTERJ_">ай-ай-ай</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">ajaj</t>
+
+       <t pos="INTERJ">jaj</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">ай-яй-яй</l>
+     <stg>
+       <st Contlex="INTERJ_">ай-яй-яй</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">ajaj</t>
+
+       <t pos="INTERJ">jaj</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">айда</l>
+     <stg>
+       <st Contlex="INTERJ_">айда</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">gyerünk</t>
+
+       <t pos="INTERJ">rajta</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="INTERJ"> hadd</t>
+
+       <t pos="INTERJ">hagy</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">айкай</l>
+     <stg>
+       <st Contlex="INTERJ_">айкай</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">hajaj</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">ак</l>
+     <stg>
+       <st Contlex="INTERJ_">ак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">ah</t>
+
+       <t pos="INTERJ">eh</t>
+
+       <t pos="INTERJ">ó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">ам</l>
+     <stg>
+       <st Contlex="INTERJ_">ам</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">hamm</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">апчи</l>
+     <stg>
+       <st Contlex="INTERJ_">апчи</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">hapci!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">ат-ат-ат</l>
+     <stg>
+       <st Contlex="INTERJ_">ат-ат-ат</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">csodálat, öröm, meglepetés kifejezése</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">атта-та-та</l>
+     <stg>
+       <st Contlex="INTERJ_">атта-та-та</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">csodálat, öröm, meglepetés kifejezése</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">ау-у-у-а</l>
+     <stg>
+       <st Contlex="INTERJ_">ау-у-у-а</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">aúú, jaj</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">ау</l>
+     <stg>
+       <st Contlex="INTERJ_">ау</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">aúúú, jaj</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">ах</l>
+     <stg>
+       <st Contlex="INTERJ_">ах</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">ah</t>
+
+       <t pos="INTERJ">oh</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">ач-ач-ач</l>
+     <stg>
+       <st Contlex="INTERJ_">ач-ач-ач</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">gúnyos, megvető érzés, vagy megbánás kifejezése</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">баб-баб</l>
+     <stg>
+       <st Contlex="INTERJ_">баб-баб</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">hajcsi-hajcsi</t>
+
+       <t pos="INTERJ">tente-tente</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">баб</l>
+     <stg>
+       <st Contlex="INTERJ_">баб</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">hajcsi</t>
+
+       <t pos="INTERJ">tente</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">бай-бай</l>
+     <stg>
+       <st Contlex="INTERJ_">бай-бай</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">csicsíja</t>
+
+       <t pos="INTERJ">tente-tente</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">бис</l>
+     <stg>
+       <st Contlex="INTERJ_">бис</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">újra!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">бли-бли</l>
+     <stg>
+       <st Contlex="INTERJ_">бли-бли</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">bárányhívogató szó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">блие-блие</l>
+     <stg>
+       <st Contlex="INTERJ_">блие-блие</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">bárányhívogató szó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">бло-бло-бло</l>
+     <stg>
+       <st Contlex="INTERJ_">бло-бло-бло</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">lóhívogató szó itatáshoz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="INTERJ">бобо</l>
+     <stg>
+       <st Contlex="INTERJ_">бобо</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="INTERJ">kutyakergető szó</t>
+     </tg>
+   </mg>
+</e>
+</r>

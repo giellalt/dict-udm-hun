@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="udmhun" xml:lang="udm">
+<e>
+   <lg>
+     <l pos="Descr">ак но бак но</l>
+     <stg>
+       <st Contlex="DESCR_">ак но бак но</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">szótlan</t>
+
+       <t pos="Descr">némán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ак но бак</l>
+     <stg>
+       <st Contlex="DESCR_">ак но бак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">szótlan</t>
+
+       <t pos="Descr">némán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">ак-бак</l>
+     <stg>
+       <st Contlex="DESCR_">ак-бак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">szótlan</t>
+
+       <t pos="Descr">némán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">алли-балли</l>
+     <stg>
+       <st Contlex="DESCR_">алли-балли</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">ragyogóan fénylő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">алли-но-балли</l>
+     <stg>
+       <st Contlex="DESCR_">алли-но-балли</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">ragyogóan fénylő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">алпан-тулпан</l>
+     <stg>
+       <st Contlex="DESCR_">алпан-тулпан</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">ide-oda</t>
+
+       <t pos="Descr">kacsázva</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Descr"> le-föl</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">аштыр-мыштыр</l>
+     <stg>
+       <st Contlex="DESCR_">аштыр-мыштыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">valahogy</t>
+
+       <t pos="Descr">alig</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бабыль-бабыль</l>
+     <stg>
+       <st Contlex="DESCR_">бабыль-бабыль</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">bodros-fodros</t>
+
+       <t pos="Descr">göndör</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бабыль</l>
+     <stg>
+       <st Contlex="DESCR_">бабыль</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">göndör</t>
+
+       <t pos="Descr">bodros</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">балли</l>
+     <stg>
+       <st Contlex="DESCR_">балли</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">csillogó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бе-е-е</l>
+     <stg>
+       <st Contlex="DESCR_">бе-е-е</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">beeee</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бекмыль</l>
+     <stg>
+       <st Contlex="DESCR_">бекмыль</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">ferde</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Descr"> borult</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Descr"> átfordult</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">боз-боз</l>
+     <stg>
+       <st Contlex="DESCR_">боз-боз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">mály, basszus hang</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">буграк</l>
+     <stg>
+       <st Contlex="DESCR_">буграк</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">laza</t>
+
+       <t pos="Descr">omlós</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бугыль-бугыль</l>
+     <stg>
+       <st Contlex="DESCR_">бугыль-бугыль</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">pezseg</t>
+
+       <t pos="Descr">bugyog</t>
+
+       <t pos="Descr">bugyborékol</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бугыр-бугыр</l>
+     <stg>
+       <st Contlex="DESCR_">бугыр-бугыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">gomolyog</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бугыр</l>
+     <stg>
+       <st Contlex="DESCR_">бугыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">gomolyog</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бугырак-бугырак</l>
+     <stg>
+       <st Contlex="DESCR_">бугырак-бугырак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">gomolyog</t>
+
+       <t pos="Descr">gomolyogva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бугырак</l>
+     <stg>
+       <st Contlex="DESCR_">бугырак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">gomolyog</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">буй-буй</l>
+     <stg>
+       <st Contlex="DESCR_">буй-буй</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">puha</t>
+
+       <t pos="Descr">lágy</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Descr"> puhán</t>
+
+       <t pos="Descr">lágyan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бук-бук</l>
+     <stg>
+       <st Contlex="DESCR_">бук-бук</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">luha</t>
+
+       <t pos="Descr">laza hó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бул-бул</l>
+     <stg>
+       <st Contlex="DESCR_">бул-бул</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">bő</t>
+
+       <t pos="Descr">lezser</t>
+
+       <t pos="Descr">lötyögő ruha</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бултык</l>
+     <stg>
+       <st Contlex="DESCR_">бултык</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">potty</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бултых</l>
+     <stg>
+       <st Contlex="DESCR_">бултых</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">potty</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">буль-буль</l>
+     <stg>
+       <st Contlex="DESCR_">буль-буль</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">buggy-buggy</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бульк</l>
+     <stg>
+       <st Contlex="DESCR_">бульк</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">zsupsz!</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Descr"> potty!</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">булькак</l>
+     <stg>
+       <st Contlex="DESCR_">булькак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">zsupsz</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Descr"> potty</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бультыр</l>
+     <stg>
+       <st Contlex="DESCR_">бультыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">buggy</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бульыр</l>
+     <stg>
+       <st Contlex="DESCR_">бульыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">buggy-buggy</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бурсак-бурсак</l>
+     <stg>
+       <st Contlex="DESCR_">бурсак-бурсак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">sűrűn gomolyogva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бурсак</l>
+     <stg>
+       <st Contlex="DESCR_">бурсак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">sűrűn gomolyogva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бус-бус</l>
+     <stg>
+       <st Contlex="DESCR_">бус-бус</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">pelyhes hó</t>
+
+       <t pos="Descr">laza hó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бускыль-бускыль</l>
+     <stg>
+       <st Contlex="DESCR_">бускыль-бускыль</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">pelyhes</t>
+
+       <t pos="Descr">laza</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бускыль</l>
+     <stg>
+       <st Contlex="DESCR_">бускыль</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">pelyhes</t>
+
+       <t pos="Descr">laza</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быг-быг</l>
+     <stg>
+       <st Contlex="DESCR_">быг-быг</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">puha</t>
+
+       <t pos="Descr">lágy</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Descr"> puhán</t>
+
+       <t pos="Descr">lágyan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быгыль-быгыль</l>
+     <stg>
+       <st Contlex="DESCR_">быгыль-быгыль</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">telt</t>
+
+       <t pos="Descr">kövérkés</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быгыль</l>
+     <stg>
+       <st Contlex="DESCR_">быгыль</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">telt</t>
+
+       <t pos="Descr">kövérkés</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быз-быз</l>
+     <stg>
+       <st Contlex="DESCR_">быз-быз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">zzzzzzzzzz</t>
+
+       <t pos="Descr">rovar döngése</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быз-з</l>
+     <stg>
+       <st Contlex="DESCR_">быз-з</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">zzzzzzzzzz</t>
+
+       <t pos="Descr">rovar döngése</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Descr"> gyermek sírásának hangfestésére használt hangsor</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быз</l>
+     <stg>
+       <st Contlex="DESCR_">быз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">zzzzzzzzzz</t>
+
+       <t pos="Descr">rovar döngése</t>
+     </tg>
+   </mg>
+</e>
+</r>

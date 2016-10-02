@@ -1,0 +1,3337 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="udmhun" xml:lang="udm">
+<e>
+   <lg>
+     <l pos="Adv">абдрамон</l>
+     <stg>
+       <st Contlex="ADV_">абдрамон</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">csodásan</t>
+
+       <t pos="Adv">elképesztően</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">абу</l>
+     <stg>
+       <st Contlex="ADV_">абу</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">fájdalmasan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">автоматически</l>
+     <stg>
+       <st Contlex="ADV_">автоматически</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">automatikusan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">адскымон</l>
+     <stg>
+       <st Contlex="ADV_">адскымон</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">láthatóan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">адӟиськымон</l>
+     <stg>
+       <st Contlex="ADV_">адӟиськымон</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">láthatóan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">адӟымон</l>
+     <stg>
+       <st Contlex="ADV_">адӟымон</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">láthatóan</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> követendően</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азинэс</l>
+     <stg>
+       <st Contlex="ADV_">азинэс</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">eredményesen</t>
+
+       <t pos="Adv">termékenyen</t>
+
+       <t pos="Adv">hasznosan</t>
+
+       <t pos="Adv">termelékenyen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азись</l>
+     <stg>
+       <st Contlex="ADV_">азись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">elölről</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азь нырысь</l>
+     <stg>
+       <st Contlex="ADV_">азь нырысь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">első</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьвыл</l>
+     <stg>
+       <st Contlex="ADV_">азьвыл</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">korábban</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> előbb</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьвылаз</l>
+     <stg>
+       <st Contlex="ADV_">азьвылаз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">előtte</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> korábban</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьдорин</l>
+     <stg>
+       <st Contlex="ADV_">азьдорин</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">elülső részén</t>
+
+       <t pos="Adv">színén</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьла</l>
+     <stg>
+       <st Contlex="ADV_">азьла</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">elöl</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьлад</l>
+     <stg>
+       <st Contlex="ADV_">азьлад</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">előtted</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьлане</l>
+     <stg>
+       <st Contlex="ADV_">азьлане</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">előre</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> tovább</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьланес</l>
+     <stg>
+       <st Contlex="ADV_">азьланес</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">eredményesen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьланись</l>
+     <stg>
+       <st Contlex="ADV_">азьланись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">elölről</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьлань-берлань</l>
+     <stg>
+       <st Contlex="ADV_">азьлань-берлань</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">előre-hátra</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> ide-oda</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> össze-vissza</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьлань</l>
+     <stg>
+       <st Contlex="ADV_">азьлань</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">előre</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> tovább</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> a jövőben</t>
+
+       <t pos="Adv">ezentúl</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьланьгес</l>
+     <stg>
+       <st Contlex="ADV_">азьланьгес</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">előbbre</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьланьзэ</l>
+     <stg>
+       <st Contlex="ADV_">азьланьзэ</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">a jövőben</t>
+
+       <t pos="Adv">később</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьланьлы</l>
+     <stg>
+       <st Contlex="ADV_">азьланьлы</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">a jövőre</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьланьын</l>
+     <stg>
+       <st Contlex="ADV_">азьланьын</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">elöl</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьланьысь</l>
+     <stg>
+       <st Contlex="ADV_">азьланьысь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">elölről</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьланяз</l>
+     <stg>
+       <st Contlex="ADV_">азьланяз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">előtte</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьлапала</l>
+     <stg>
+       <st Contlex="ADV_">азьлапала</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">előre</t>
+
+       <t pos="Adv">elölre</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьлапалан</l>
+     <stg>
+       <st Contlex="ADV_">азьлапалан</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">elöl</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьлапаласен</l>
+     <stg>
+       <st Contlex="ADV_">азьлапаласен</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">elölről</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьлапалась</l>
+     <stg>
+       <st Contlex="ADV_">азьлапалась</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">elölről</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьлапаллы</l>
+     <stg>
+       <st Contlex="ADV_">азьлапаллы</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">jövőben</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьло-берло</l>
+     <stg>
+       <st Contlex="ADV_">азьло-берло</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">elölre-hátulra</t>
+
+       <t pos="Adv">össze-vissza</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьло-ик</l>
+     <stg>
+       <st Contlex="ADV_">азьло-ик</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">mindenek előtt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьло</l>
+     <stg>
+       <st Contlex="ADV_">азьло</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">korábban</t>
+
+       <t pos="Adv">előbb</t>
+
+       <t pos="Adv">régebben</t>
+
+       <t pos="Adv"></t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьлогес</l>
+     <stg>
+       <st Contlex="ADV_">азьлогес</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">korábban</t>
+
+       <t pos="Adv">előbb</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьлон</l>
+     <stg>
+       <st Contlex="ADV_">азьлон</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">korábban</t>
+
+       <t pos="Adv">előbb</t>
+
+       <t pos="Adv">régebben</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьнал</l>
+     <stg>
+       <st Contlex="ADV_">азьнал</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">tegnapelőtt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьпала</l>
+     <stg>
+       <st Contlex="ADV_">азьпала</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">elölre</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> a jövőbe</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьпалаз</l>
+     <stg>
+       <st Contlex="ADV_">азьпалаз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">elöl</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> a jövőben</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьпалан</l>
+     <stg>
+       <st Contlex="ADV_">азьпалан</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">elöl</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> a jövőben</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьпаласен</l>
+     <stg>
+       <st Contlex="ADV_">азьпаласен</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">elölről</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьпалась</l>
+     <stg>
+       <st Contlex="ADV_">азьпалась</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">elölről</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьпаллы</l>
+     <stg>
+       <st Contlex="ADV_">азьпаллы</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">a jövőre</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьпалтӥ</l>
+     <stg>
+       <st Contlex="ADV_">азьпалтӥ</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">elöl</t>
+
+       <t pos="Adv">előre</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьтэм-бертэм</l>
+     <stg>
+       <st Contlex="ADV_">азьтэм-бертэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">véget nem érően</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> folyton</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьтэм</l>
+     <stg>
+       <st Contlex="ADV_">азьтэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">lustán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">азьын-берын</l>
+     <stg>
+       <st Contlex="ADV_">азьын-берын</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">elöl-hátul</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">айбат</l>
+     <stg>
+       <st Contlex="ADV_">айбат</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">jól</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">аймыл</l>
+     <stg>
+       <st Contlex="ADV_">аймыл</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">szét</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> másfelé</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">аклес</l>
+     <stg>
+       <st Contlex="ADV_">аклес</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">unalmasan</t>
+
+       <t pos="Adv">terhesen</t>
+
+       <t pos="Adv">tolakodóan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">аксым</l>
+     <stg>
+       <st Contlex="ADV_">аксым</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">mohón</t>
+
+       <t pos="Adv">lapzsin</t>
+
+       <t pos="Adv">sóváran</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">актык</l>
+     <stg>
+       <st Contlex="ADV_">актык</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">véglegesen</t>
+
+       <t pos="Adv">végérvényesen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">акылес</l>
+     <stg>
+       <st Contlex="ADV_">акылес</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">unalmasan</t>
+
+       <t pos="Adv">terhesen</t>
+
+       <t pos="Adv">tolakodóan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">акыляк</l>
+     <stg>
+       <st Contlex="ADV_">акыляк</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">untatóan</t>
+
+       <t pos="Adv">zavaróan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">акыр заман</l>
+     <stg>
+       <st Contlex="ADV_">акыр заман</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">világvége</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ал но гыль</l>
+     <stg>
+       <st Contlex="ADV_">ал но гыль</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">csodálatos</t>
+
+       <t pos="Adv">nagyszerű</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">алама</l>
+     <stg>
+       <st Contlex="ADV_">алама</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">rosszul</t>
+
+       <t pos="Adv">gyengén</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> csúnyán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">алдэ-юлдэ</l>
+     <stg>
+       <st Contlex="ADV_">алдэ-юлдэ</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">megbízhatatlanul</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> félrevezetően</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">алдэто</l>
+     <stg>
+       <st Contlex="ADV_">алдэто</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">megbízhatatlanul</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> félrevezetően</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">али-ик</l>
+     <stg>
+       <st Contlex="ADV_">али-ик</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">mindjárt</t>
+
+       <t pos="Adv">most</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">али</l>
+     <stg>
+       <st Contlex="ADV_">али</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">mindjárt</t>
+
+       <t pos="Adv">most</t>
+
+       <t pos="Adv">hamarosan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">алигем</l>
+     <stg>
+       <st Contlex="ADV_">алигем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">nemrég</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">алигес</l>
+     <stg>
+       <st Contlex="ADV_">алигес</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">nemrég</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">алигесэн</l>
+     <stg>
+       <st Contlex="ADV_">алигесэн</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">nemrég</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">алиенгес</l>
+     <stg>
+       <st Contlex="ADV_">алиенгес</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">nemrég</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">алияз</l>
+     <stg>
+       <st Contlex="ADV_">алияз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">ez alkalommal</t>
+
+       <t pos="Adv">most</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">аллак</l>
+     <stg>
+       <st Contlex="ADV_">аллак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">magányosan</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> félreesően</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> rejtetten</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> elhagyatottan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">аль</l>
+     <stg>
+       <st Contlex="ADV_">аль</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">minjárt</t>
+
+       <t pos="Adv">most</t>
+
+       <t pos="Adv">hamarosan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">аляк</l>
+     <stg>
+       <st Contlex="ADV_">аляк</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">zavaróan</t>
+
+       <t pos="Adv">idegesítően</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> kapzsin</t>
+
+       <t pos="Adv">mohón</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> nyugtalanul</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> gonoszul</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> igazságtalanul</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> meghamisítottan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">амалак</l>
+     <stg>
+       <st Contlex="ADV_">амалак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">ügyesen</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> ravaszul</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">амалскын</l>
+     <stg>
+       <st Contlex="ADV_">амалскын</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">tettetve</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> furfangosan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">аман</l>
+     <stg>
+       <st Contlex="ADV_">аман</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">állandóan</t>
+
+       <t pos="Adv">mindig</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">амсыр</l>
+     <stg>
+       <st Contlex="ADV_">амсыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">szűken</t>
+
+       <t pos="Adv">szorosan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ар-кык</l>
+     <stg>
+       <st Contlex="ADV_">ар-кык</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">egy-két év</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">арбыт</l>
+     <stg>
+       <st Contlex="ADV_">арбыт</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">az egész év</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">арбытскын</l>
+     <stg>
+       <st Contlex="ADV_">арбытскын</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">egy év alatt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">арен-кыкен</l>
+     <stg>
+       <st Contlex="ADV_">арен-кыкен</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">évről évre</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">арнябыт</l>
+     <stg>
+       <st Contlex="ADV_">арнябыт</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">egész héten</t>
+
+       <t pos="Adv">egy hét alatt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">арняскын</l>
+     <stg>
+       <st Contlex="ADV_">арняскын</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">egy héten át</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> egy hét múlva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">арскын</l>
+     <stg>
+       <st Contlex="ADV_">арскын</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">egy éven át</t>
+
+       <t pos="Adv">egy év alatt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">арсын</l>
+     <stg>
+       <st Contlex="ADV_">арсын</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">egy éven át</t>
+
+       <t pos="Adv">egy év alatt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">артелен-артелен</l>
+     <stg>
+       <st Contlex="ADV_">артелен-артелен</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">munkaközösségenként</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">артелен</l>
+     <stg>
+       <st Contlex="ADV_">артелен</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">munkaközösségként</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">артын</l>
+     <stg>
+       <st Contlex="ADV_">артын</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">egymás mellett</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">артысь артэ</l>
+     <stg>
+       <st Contlex="ADV_">артысь артэ</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">szorosan egymás mellett</t>
+
+       <t pos="Adv">váll váll mellett</t>
+
+       <t pos="Adv">vállvetve</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">артысь</l>
+     <stg>
+       <st Contlex="ADV_">артысь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">sorjában</t>
+
+       <t pos="Adv">egymás után</t>
+
+       <t pos="Adv">egymás mellől</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">артэ</l>
+     <stg>
+       <st Contlex="ADV_">артэ</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">egymás mellé</t>
+
+       <t pos="Adv">egy sorba</t>
+
+       <t pos="Adv">együvé</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> szomszédos</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">артэн</l>
+     <stg>
+       <st Contlex="ADV_">артэн</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">egymás melletti</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">арысь-аре</l>
+     <stg>
+       <st Contlex="ADV_">арысь-аре</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">évről évre</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ас кожад</l>
+     <stg>
+       <st Contlex="ADV_">ас кожад</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">te önállóan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ас мактал</l>
+     <stg>
+       <st Contlex="ADV_">ас мактал</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">maga módján</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">асат</l>
+     <stg>
+       <st Contlex="ADV_">асат</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">anyag6</t>
+
+       <t pos="Adv">lélektelen</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> szeles</t>
+
+       <t pos="Adv">komolytalan</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> erkölcstelen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">асказ ӵукна</l>
+     <stg>
+       <st Contlex="ADV_">асказ ӵукна</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">következő nap reggelén</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">асказ</l>
+     <stg>
+       <st Contlex="ADV_">асказ</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">a következő napon</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">аску</l>
+     <stg>
+       <st Contlex="ADV_">аску</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">holnapi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">аскы ӵукна</l>
+     <stg>
+       <st Contlex="ADV_">аскы ӵукна</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">holnap reggel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">аскы</l>
+     <stg>
+       <st Contlex="ADV_">аскы</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">holnapi</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">аскыз</l>
+     <stg>
+       <st Contlex="ADV_">аскыз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">a következő napon</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">аспӧртэм</l>
+     <stg>
+       <st Contlex="ADV_">аспӧртэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">sajátságosan</t>
+
+       <t pos="Adv">specifikusan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">асьсэ коже</l>
+     <stg>
+       <st Contlex="ADV_">асьсэ коже</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">önállóan</t>
+
+       <t pos="Adv">segítség nélkül</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">асьтана-пасьтана</l>
+     <stg>
+       <st Contlex="ADV_">асьтана-пасьтана</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">szanaszét</t>
+
+       <t pos="Adv">szerteszét</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">аулак</l>
+     <stg>
+       <st Contlex="ADV_">аулак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">magányosan</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> félreesőn</t>
+
+       <t pos="Adv">rejtetten</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> elhagyatottan</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> csendesen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">ашакы</l>
+     <stg>
+       <st Contlex="ADV_">ашакы</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">rosszul</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">аштэм</l>
+     <stg>
+       <st Contlex="ADV_">аштэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">ízetlenül</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бадӟым</l>
+     <stg>
+       <st Contlex="ADV_">бадӟым</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">nagyon</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бадӟын</l>
+     <stg>
+       <st Contlex="ADV_">бадӟын</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">nagyon</t>
+
+       <t pos="Adv">szenten</t>
+
+       <t pos="Adv">hatalmasan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">байтак</l>
+     <stg>
+       <st Contlex="ADV_">байтак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">jócskán</t>
+
+       <t pos="Adv">elegendően</t>
+
+       <t pos="Adv">meglehetősen sok</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">барбыр</l>
+     <stg>
+       <st Contlex="ADV_">барбыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">egyremegy</t>
+
+       <t pos="Adv">mindegy</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">барыбыр</l>
+     <stg>
+       <st Contlex="ADV_">барыбыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">egyremegy</t>
+
+       <t pos="Adv">mindegy</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">барышен</l>
+     <stg>
+       <st Contlex="ADV_">барышен</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">haszonnal</t>
+
+       <t pos="Adv">hasznot hozva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">басыл</l>
+     <stg>
+       <st Contlex="ADV_">басыл</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">csendesen</t>
+
+       <t pos="Adv">nyugodtan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">басылак</l>
+     <stg>
+       <st Contlex="ADV_">басылак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">csendesen</t>
+
+       <t pos="Adv">nyugodtan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">батыр</l>
+     <stg>
+       <st Contlex="ADV_">батыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">hősiesen</t>
+
+       <t pos="Adv">bátran</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бельтэк</l>
+     <stg>
+       <st Contlex="ADV_">бельтэк</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">hebegve</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> dadogva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бер</l>
+     <stg>
+       <st Contlex="ADV_">бер</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">utó</t>
+
+       <t pos="Adv">késő</t>
+
+       <t pos="Adv">utóbb</t>
+
+       <t pos="Adv">később</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берад</l>
+     <stg>
+       <st Contlex="ADV_">берад</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">mögötted</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бераз</l>
+     <stg>
+       <st Contlex="ADV_">бераз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">mögötte</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">беразы</l>
+     <stg>
+       <st Contlex="ADV_">беразы</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">mögöttük</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берам</l>
+     <stg>
+       <st Contlex="ADV_">берам</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">mögöttem</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берат</l>
+     <stg>
+       <st Contlex="ADV_">берат</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">később</t>
+
+       <t pos="Adv">azután</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бератаз</l>
+     <stg>
+       <st Contlex="ADV_">бератаз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">végül</t>
+
+       <t pos="Adv">végtére</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> később</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бератсэ</l>
+     <stg>
+       <st Contlex="ADV_">бератсэ</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">végül</t>
+
+       <t pos="Adv">végtére</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> később</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бервылаз</l>
+     <stg>
+       <st Contlex="ADV_">бервылаз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">végül</t>
+
+       <t pos="Adv">végtére</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бервылат</l>
+     <stg>
+       <st Contlex="ADV_">бервылат</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">utána</t>
+
+       <t pos="Adv">majd</t>
+
+       <t pos="Adv">végül</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бервылатаз</l>
+     <stg>
+       <st Contlex="ADV_">бервылатаз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">utána</t>
+
+       <t pos="Adv">majd</t>
+
+       <t pos="Adv">végül</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бервылатсэ</l>
+     <stg>
+       <st Contlex="ADV_">бервылатсэ</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">utána</t>
+
+       <t pos="Adv">majd</t>
+
+       <t pos="Adv">végül</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бервылтэм</l>
+     <stg>
+       <st Contlex="ADV_">бервылтэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">nyomtalanul</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берекето</l>
+     <stg>
+       <st Contlex="ADV_">берекето</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">áldásosan</t>
+
+       <t pos="Adv">szerencsésen</t>
+
+       <t pos="Adv">bőségesen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берен</l>
+     <stg>
+       <st Contlex="ADV_">берен</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">ismét</t>
+
+       <t pos="Adv">újra</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> vissza</t>
+
+       <t pos="Adv">hátrafelé</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">беренэс</l>
+     <stg>
+       <st Contlex="ADV_">беренэс</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">szófodatlanul</t>
+
+       <t pos="Adv">makacsul</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> eredménytelenül</t>
+
+       <t pos="Adv">sikertelenül</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> felforgatva</t>
+
+       <t pos="Adv">fordítva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берин-азин</l>
+     <stg>
+       <st Contlex="ADV_">берин-азин</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">tökéletes rendben</t>
+
+       <t pos="Adv">szabályszerűen</t>
+
+       <t pos="Adv">minden szokást betartva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берин</l>
+     <stg>
+       <st Contlex="ADV_">берин</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">háttal</t>
+
+       <t pos="Adv">elfordulva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берланес</l>
+     <stg>
+       <st Contlex="ADV_">берланес</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">fordítva</t>
+
+       <t pos="Adv">fonákul</t>
+
+       <t pos="Adv">ellenkezőleg</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берлань-азьлань</l>
+     <stg>
+       <st Contlex="ADV_">берлань-азьлань</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">előre-hátra</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берлань</l>
+     <stg>
+       <st Contlex="ADV_">берлань</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">hátrafelé</t>
+
+       <t pos="Adv">vissza</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> később</t>
+     </tg>
+   </mg>
+</e>
+берлапала:берлапала ADV_ hátra" ;
+<e>
+   <lg>
+     <l pos="Adv">берлапалан</l>
+     <stg>
+       <st Contlex="ADV_">берлапалан</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">hátul</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берлапаласен</l>
+     <stg>
+       <st Contlex="ADV_">берлапаласен</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">hátulról (kezdve)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берлапалась</l>
+     <stg>
+       <st Contlex="ADV_">берлапалась</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">hátulról</t>
+
+       <t pos="Adv">hátsó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берлапалласянь</l>
+     <stg>
+       <st Contlex="ADV_">берлапалласянь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">hátulról</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берлапалтӥз</l>
+     <stg>
+       <st Contlex="ADV_">берлапалтӥз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">hátulról</t>
+
+       <t pos="Adv">a háta mögül</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берласянь</l>
+     <stg>
+       <st Contlex="ADV_">берласянь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">hátul</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берло-азьло</l>
+     <stg>
+       <st Contlex="ADV_">берло-азьло</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">előre-hátra</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> állhatatlanul</t>
+
+       <t pos="Adv">váltakozóan</t>
+
+       <t pos="Adv">nem állandóan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берло</l>
+     <stg>
+       <st Contlex="ADV_">берло</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">aztán</t>
+
+       <t pos="Adv">később</t>
+
+       <t pos="Adv">utóbb</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берлон</l>
+     <stg>
+       <st Contlex="ADV_">берлон</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">aztán</t>
+
+       <t pos="Adv">utána</t>
+
+       <t pos="Adv">később</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берлось</l>
+     <stg>
+       <st Contlex="ADV_">берлось</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">utolsóul</t>
+
+       <t pos="Adv">hátul</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берпала</l>
+     <stg>
+       <st Contlex="ADV_">берпала</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">hátra</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берпалан</l>
+     <stg>
+       <st Contlex="ADV_">берпалан</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">hátul</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берпаласен</l>
+     <stg>
+       <st Contlex="ADV_">берпаласен</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">hátulról (kezdve)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берпалась</l>
+     <stg>
+       <st Contlex="ADV_">берпалась</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">hátulról</t>
+
+       <t pos="Adv">hátsó</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берпалласянь</l>
+     <stg>
+       <st Contlex="ADV_">берпалласянь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">hátulról</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">берпалтӥз</l>
+     <stg>
+       <st Contlex="ADV_">берпалтӥз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">hátulról</t>
+
+       <t pos="Adv">a háta mögül</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бертэм-азьтэм</l>
+     <stg>
+       <st Contlex="ADV_">бертэм-азьтэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">nyom nélkül</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> hanyagul</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> lustán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бертэмскын</l>
+     <stg>
+       <st Contlex="ADV_">бертэмскын</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">hazatéréskor</t>
+
+       <t pos="Adv">amikor hazatér</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">беспӧртэм</l>
+     <stg>
+       <st Contlex="ADV_">беспӧртэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">kellemetlenül</t>
+
+       <t pos="Adv">bosszantóan</t>
+
+       <t pos="Adv">monoton</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бичура</l>
+     <stg>
+       <st Contlex="ADV_">бичура</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">türelmetlenül</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">блама</l>
+     <stg>
+       <st Contlex="ADV_">блама</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">ostobán</t>
+
+       <t pos="Adv">zagyválva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бобо</l>
+     <stg>
+       <st Contlex="ADV_">бобо</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">fájdalmasan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бозгес</l>
+     <stg>
+       <st Contlex="ADV_">бозгес</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">basszus hangon</t>
+
+       <t pos="Adv">mély hangon</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бок</l>
+     <stg>
+       <st Contlex="ADV_">бок</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">mellé</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бордад</l>
+     <stg>
+       <st Contlex="ADV_">бордад</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">melletted</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бордаз</l>
+     <stg>
+       <st Contlex="ADV_">бордаз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">mellette</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бордам</l>
+     <stg>
+       <st Contlex="ADV_">бордам</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">mellettem</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">борӟемен</l>
+     <stg>
+       <st Contlex="ADV_">борӟемен</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">lóháton</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">будто-ке</l>
+     <stg>
+       <st Contlex="ADV_">будто-ке</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">mintha</t>
+
+       <t pos="Adv">szinte</t>
+
+       <t pos="Adv">talán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">будӟым</l>
+     <stg>
+       <st Contlex="ADV_">будӟым</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">istenien</t>
+
+       <t pos="Adv">szenten</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бур</l>
+     <stg>
+       <st Contlex="ADV_">бур</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">jól</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">буре</l>
+     <stg>
+       <st Contlex="ADV_">буре</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">jobbra</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">буржык</l>
+     <stg>
+       <st Contlex="ADV_">буржык</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">jobban</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">буркие</l>
+     <stg>
+       <st Contlex="ADV_">буркие</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">nemezcsizmásan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бурлане</l>
+     <stg>
+       <st Contlex="ADV_">бурлане</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">jobbra</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бурлань</l>
+     <stg>
+       <st Contlex="ADV_">бурлань</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">jobbra</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бурласянь</l>
+     <stg>
+       <st Contlex="ADV_">бурласянь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">jobbról</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бурпала</l>
+     <stg>
+       <st Contlex="ADV_">бурпала</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">jobbra</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бурпалан</l>
+     <stg>
+       <st Contlex="ADV_">бурпалан</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">jobb oldalon</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бурпаласен</l>
+     <stg>
+       <st Contlex="ADV_">бурпаласен</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">jobbról</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бурпалась</l>
+     <stg>
+       <st Contlex="ADV_">бурпалась</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">jobbról</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бурпалласянь</l>
+     <stg>
+       <st Contlex="ADV_">бурпалласянь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">jobbról</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бурпалтӥ</l>
+     <stg>
+       <st Contlex="ADV_">бурпалтӥ</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">jobb oldal mentén</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бусак</l>
+     <stg>
+       <st Contlex="ADV_">бусак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">lágyan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бусмыт</l>
+     <stg>
+       <st Contlex="ADV_">бусмыт</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">ködösen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бусьтыр</l>
+     <stg>
+       <st Contlex="ADV_">бусьтыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">mindene megvan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бушен</l>
+     <stg>
+       <st Contlex="ADV_">бушен</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">üresen</t>
+
+       <t pos="Adv">rakomány nélkül</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> tétlen</t>
+     </tg>
+   </mg>
+</e>
+бушлы:бушлы ADV_ "ingyen; hi
+<e>
+   <lg>
+     <l pos="Adv">быгатымон</l>
+     <stg>
+       <st Contlex="ADV_">быгатымон</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">teljesen megvalósíthatóan</t>
+
+       <t pos="Adv">teljesen lehetségesen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">быгатыса</l>
+     <stg>
+       <st Contlex="ADV_">быгатыса</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">ügyesen</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> hozzáértően</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">быгылескын</l>
+     <stg>
+       <st Contlex="ADV_">быгылескын</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv"></t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> héjában főtt burgonya</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">быгылесэн</l>
+     <stg>
+       <st Contlex="ADV_">быгылесэн</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv"></t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> héjában főtt burgonya</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">быдтыр</l>
+     <stg>
+       <st Contlex="ADV_">быдтыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">egészen</t>
+
+       <t pos="Adv">teljesen</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> folyamatosan</t>
+
+       <t pos="Adv">állandóan</t>
+
+       <t pos="Adv">egész idő alatt</t>
+
+       <t pos="Adv">teljesen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">быдтырак азе</l>
+     <stg>
+       <st Contlex="ADV_">быдтырак азе</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">örökké</t>
+
+       <t pos="Adv">állandóan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">быдтырак</l>
+     <stg>
+       <st Contlex="ADV_">быдтырак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">örökké</t>
+
+       <t pos="Adv">állandóan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">быдысь</l>
+     <stg>
+       <st Contlex="ADV_">быдысь</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">kérem</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">быдэн-быдэн</l>
+     <stg>
+       <st Contlex="ADV_">быдэн-быдэн</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">egyenként</t>
+
+       <t pos="Adv">külön</t>
+
+       <t pos="Adv">külön-külön</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">быдэн</l>
+     <stg>
+       <st Contlex="ADV_">быдэн</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">egyenként</t>
+
+       <t pos="Adv">külön</t>
+
+       <t pos="Adv">külön-külön</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">быдэнак</l>
+     <stg>
+       <st Contlex="ADV_">быдэнак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">egyenként</t>
+
+       <t pos="Adv">külön</t>
+
+       <t pos="Adv">külön-külön</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> egyenlően</t>
+
+       <t pos="Adv">egyformán</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">быдэсак</l>
+     <stg>
+       <st Contlex="ADV_">быдэсак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">egészen</t>
+
+       <t pos="Adv">teljesen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">быдэскын</l>
+     <stg>
+       <st Contlex="ADV_">быдэскын</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">teljesen</t>
+
+       <t pos="Adv">legnagyobb mértékben</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">быдӟи</l>
+     <stg>
+       <st Contlex="ADV_">быдӟи</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">gőgösen</t>
+
+       <t pos="Adv">dölyfösen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">быдӟым</l>
+     <stg>
+       <st Contlex="ADV_">быдӟым</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">nagyon</t>
+
+       <t pos="Adv">hatalmasan</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> tiszteletre méltóan</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">бызьыса</l>
+     <stg>
+       <st Contlex="ADV_">бызьыса</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">futva</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> folyva</t>
+
+       <t pos="Adv">áramolva</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Adv">былама</l>
+     <stg>
+       <st Contlex="ADV_">былама</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Adv">ostobán</t>
+
+       <t pos="Adv">zagyválva</t>
+     </tg>
+   </mg>
+</e>
+</r>
