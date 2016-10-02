@@ -16736,4 +16736,152 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="V">азапмандырыны</l>
+     <stg>
+       <st Contlex="V_MONO">азапмандыры</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">gyötör</t>
+
+       <t pos="V">kínoz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">азабландырыны</l>
+     <stg>
+       <st Contlex="V_MONO">азабландыры</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">gyötör</t>
+
+       <t pos="V">kínoz</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">азьдоринскыны</l>
+     <stg>
+       <st Contlex="V_MONO">азьдоринскы</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">színére fordul vmi</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="V"> odafordul vkihez</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бугырскылыны</l>
+     <stg>
+       <st Contlex="V_MONO">бугырскылы</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">gomolyog</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="V"> fellazul</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="V"> turkál</t>
+
+       <t pos="V">kotor ászik vmiben</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="V"> elburjánzik</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="V"> nyugtalankodik</t>
+
+       <t pos="V">nyugtalan lesz</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="V"> kitör (háború)</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="V">бугырскыны</l>
+     <stg>
+       <st Contlex="V_MONO">бугырскы</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="V">gomolyog</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="V"> fellazul</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="V"> turkál</t>
+
+       <t pos="V">kotor ászik vmiben</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="V"> elburjánzik</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="V"> nyugtalankodik</t>
+
+       <t pos="V">nyugtalan lesz</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="V"> kitör (háború)</t>
+     </tg>
+   </mg>
+</e>
 </r>

@@ -3334,4 +3334,24 @@
      </tg>
    </mg>
 </e>
+<e>
+   <lg>
+     <l pos="Adv">бушлы</l>
+     <stg>
+       <st Contlex="ADV_">бушлы</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="Adv">ingyen</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Adv"> hiba</t>
+     </tg>
+   </mg>
+</e>
 </r>

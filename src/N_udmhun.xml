@@ -37888,4 +37888,86 @@
      </tg>
    </mg>
 </e>
+<e order="2">
+   <lg>
+     <l pos="N">пуны</l>
+     <stg>
+       <st Contlex="N_">пуны</st>
+     </stg>
+   </lg> <etymg> <etym xml:lang="kpv">пон</etym> </etymg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t>koira</t>
+     </tg>
+     <tg xml:lang="hun">
+       <t pos="N">kutya</t>
+       <t pos="N">eb</t>
+     </tg>
+   </mg>
+ </e>
+<e>
+   <lg>
+     <l pos="N">будос-ли</l>
+     <stg>
+       <st Contlex="N_">будос-ли</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">kambium</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">азман</l>
+     <stg>
+       <st Contlex="N_">азман</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">rejtett heréjű ember vagy állat</t>
+     </tg>
+   </mg>
+
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="N"> komor csődör</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">ас нерге вир</l>
+     <stg>
+       <st Contlex="N_">ас нерге вир</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">menstruáció</t>
+
+       <t pos="N">havi vérzés</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">басма вузась</l>
+     <stg>
+       <st Contlex="N_">басма вузась</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="fin">
+       <t pos="N">szövetkereskedő</t>
+     </tg>
+   </mg>
+</e>
 </r>
