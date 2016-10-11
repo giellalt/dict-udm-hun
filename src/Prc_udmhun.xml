@@ -2,7 +2,7 @@
 <r id="udmhun" xml:lang="udm">
 <e>
    <lg>
-     <l pos="PRC">абдрам</l>
+     <l pos="Prc">абдрам</l>
      <stg>
        <st Contlex="PRC_">абдрам</st>
      </stg>
@@ -10,17 +10,17 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">meglepett</t>
+       <t pos="Prc">meglepett</t>
 
-       <t pos="PRC">elcsodálkozott</t>
+       <t pos="Prc">elcsodálkozott</t>
 
-       <t pos="PRC">megörvendeztetett</t>
+       <t pos="Prc">megörvendeztetett</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">абдрамон</l>
+     <l pos="Prc">абдрамон</l>
      <stg>
        <st Contlex="PRC_">абдрамон</st>
      </stg>
@@ -28,15 +28,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">csodálandó</t>
+       <t pos="Prc">csodálandó</t>
 
-       <t pos="PRC">csodálni való</t>
+       <t pos="Prc">csodálni való</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">абызаськись</l>
+     <l pos="Prc">абызаськись</l>
      <stg>
        <st Contlex="PRC_">абызаськись</st>
      </stg>
@@ -44,19 +44,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">kuruzsló</t>
+       <t pos="Prc">kuruzsló</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> jósló</t>
+       <t pos="Prc">jósló</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">адресам</l>
+     <l pos="Prc">адресам</l>
      <stg>
        <st Contlex="PRC_">адресам</st>
      </stg>
@@ -64,13 +64,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">címzett</t>
+       <t pos="Prc">címzett</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">адскымон</l>
+     <l pos="Prc">адскымон</l>
      <stg>
        <st Contlex="PRC_">адскымон</st>
      </stg>
@@ -78,13 +78,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">látható</t>
+       <t pos="Prc">látható</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">адымась</l>
+     <l pos="Prc">адымась</l>
      <stg>
        <st Contlex="PRC_">адымась</st>
      </stg>
@@ -92,13 +92,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">poroszkáló</t>
+       <t pos="Prc">poroszkáló</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">адӟем</l>
+     <l pos="Prc">адӟем</l>
      <stg>
        <st Contlex="PRC_">адӟем</st>
      </stg>
@@ -106,13 +106,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">látott</t>
+       <t pos="Prc">látott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">адӟись</l>
+     <l pos="Prc">адӟись</l>
      <stg>
        <st Contlex="PRC_">адӟись</st>
      </stg>
@@ -120,13 +120,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">látó</t>
+       <t pos="Prc">látó</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">адӟиськем</l>
+     <l pos="Prc">адӟиськем</l>
      <stg>
        <st Contlex="PRC_">адӟиськем</st>
      </stg>
@@ -134,19 +134,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">látott</t>
+       <t pos="Prc">látott</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"></t>
+       <t pos="Prc"></t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">адӟиськымон</l>
+     <l pos="Prc">адӟиськымон</l>
      <stg>
        <st Contlex="PRC_">адӟиськымон</st>
      </stg>
@@ -154,13 +154,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">látható</t>
+       <t pos="Prc">látható</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">адӟылӥсь</l>
+     <l pos="Prc">адӟылӥсь</l>
      <stg>
        <st Contlex="PRC_">адӟылӥсь</st>
      </stg>
@@ -168,13 +168,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">látó</t>
+       <t pos="Prc">látó</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">адӟымон</l>
+     <l pos="Prc">адӟымон</l>
      <stg>
        <st Contlex="PRC_">адӟымон</st>
      </stg>
@@ -182,19 +182,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">látható</t>
+       <t pos="Prc">látható</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> követendő</t>
+       <t pos="Prc">követendő</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">адӟытӥсь</l>
+     <l pos="Prc">адӟытӥсь</l>
      <stg>
        <st Contlex="PRC_">адӟытӥсь</st>
      </stg>
@@ -202,15 +202,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">bemutató</t>
+       <t pos="Prc">bemutató</t>
 
-       <t pos="PRC">demonstráló</t>
+       <t pos="Prc">demonstráló</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азвесьвуам</l>
+     <l pos="Prc">азвесьвуам</l>
      <stg>
        <st Contlex="PRC_">азвесьвуам</st>
      </stg>
@@ -218,13 +218,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">ezüstözött</t>
+       <t pos="Prc">ezüstözött</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азвесям</l>
+     <l pos="Prc">азвесям</l>
      <stg>
        <st Contlex="PRC_">азвесям</st>
      </stg>
@@ -232,13 +232,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">ezüstözött</t>
+       <t pos="Prc">ezüstözött</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азгынмем</l>
+     <l pos="Prc">азгынмем</l>
      <stg>
        <st Contlex="PRC_">азгынмем</st>
      </stg>
@@ -246,19 +246,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">ellustult</t>
+       <t pos="Prc">ellustult</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> lezüllött</t>
+       <t pos="Prc">lezüllött</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азинскем</l>
+     <l pos="Prc">азинскем</l>
      <stg>
        <st Contlex="PRC_">азинскем</st>
      </stg>
@@ -266,25 +266,25 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">előrejutott</t>
+       <t pos="Prc">előrejutott</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> megelőzött</t>
+       <t pos="Prc">megelőzött</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> fejlett</t>
+       <t pos="Prc">fejlett</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азинтӥськем</l>
+     <l pos="Prc">азинтӥськем</l>
      <stg>
        <st Contlex="PRC_">азинтӥськем</st>
      </stg>
@@ -292,27 +292,27 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">előrejutott</t>
+       <t pos="Prc">előrejutott</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> megelőzött</t>
+       <t pos="Prc">megelőzött</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> fejlett</t>
+       <t pos="Prc">fejlett</t>
 
-       <t pos="PRC">kifejlődött</t>
+       <t pos="Prc">kifejlődött</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азъяськем</l>
+     <l pos="Prc">азъяськем</l>
      <stg>
        <st Contlex="PRC_">азъяськем</st>
      </stg>
@@ -320,19 +320,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">szárbaszökkent a hagyma</t>
+       <t pos="Prc">szárbaszökkent a hagyma</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> kivirágzott pl. káposzta, retek</t>
+       <t pos="Prc">kivirágzott pl. káposzta, retek</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азьвылскем</l>
+     <l pos="Prc">азьвылскем</l>
      <stg>
        <st Contlex="PRC_">азьвылскем</st>
      </stg>
@@ -340,17 +340,17 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">megelőzött</t>
+       <t pos="Prc">megelőzött</t>
 
-       <t pos="PRC">leelőzött</t>
+       <t pos="Prc">leelőzött</t>
 
-       <t pos="PRC">lehagyott</t>
+       <t pos="Prc">lehagyott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азьвылскись</l>
+     <l pos="Prc">азьвылскись</l>
      <stg>
        <st Contlex="PRC_">азьвылскись</st>
      </stg>
@@ -358,21 +358,21 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">megelőző</t>
+       <t pos="Prc">megelőző</t>
 
-       <t pos="PRC">lehagyó</t>
+       <t pos="Prc">lehagyó</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> előre haladó</t>
+       <t pos="Prc">előre haladó</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азьвылтылэм</l>
+     <l pos="Prc">азьвылтылэм</l>
      <stg>
        <st Contlex="PRC_">азьвылтылэм</st>
      </stg>
@@ -380,19 +380,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">leelőzött</t>
+       <t pos="Prc">leelőzött</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> előbbre jutott</t>
+       <t pos="Prc">előbbre jutott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азьвылтӥськем</l>
+     <l pos="Prc">азьвылтӥськем</l>
      <stg>
        <st Contlex="PRC_">азьвылтӥськем</st>
      </stg>
@@ -400,21 +400,21 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">megelőző</t>
+       <t pos="Prc">megelőző</t>
 
-       <t pos="PRC">lehagyó</t>
+       <t pos="Prc">lehagyó</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> előre haladó</t>
+       <t pos="Prc">előre haladó</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азьвылтӥськись</l>
+     <l pos="Prc">азьвылтӥськись</l>
      <stg>
        <st Contlex="PRC_">азьвылтӥськись</st>
      </stg>
@@ -422,27 +422,27 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">megelőző</t>
+       <t pos="Prc">megelőző</t>
 
-       <t pos="PRC">lehagyó</t>
+       <t pos="Prc">lehagyó</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> előre haladó</t>
+       <t pos="Prc">előre haladó</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> stréber</t>
+       <t pos="Prc">stréber</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азьланьскем</l>
+     <l pos="Prc">азьланьскем</l>
      <stg>
        <st Contlex="PRC_">азьланьскем</st>
      </stg>
@@ -450,19 +450,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">haladó</t>
+       <t pos="Prc">haladó</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> fejlődő</t>
+       <t pos="Prc">fejlődő</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азьланьтӥськем</l>
+     <l pos="Prc">азьланьтӥськем</l>
      <stg>
        <st Contlex="PRC_">азьланьтӥськем</st>
      </stg>
@@ -470,13 +470,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">fejlődő</t>
+       <t pos="Prc">fejlődő</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азьмынӥсь</l>
+     <l pos="Prc">азьмынӥсь</l>
      <stg>
        <st Contlex="PRC_">азьмынӥсь</st>
      </stg>
@@ -484,15 +484,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">elöl haladó</t>
+       <t pos="Prc">elöl haladó</t>
 
-       <t pos="PRC">elöl járó</t>
+       <t pos="Prc">elöl járó</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азьпалтэм</l>
+     <l pos="Prc">азьпалтэм</l>
      <stg>
        <st Contlex="PRC_">азьпалтэм</st>
      </stg>
@@ -500,13 +500,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">megelőzött</t>
+       <t pos="Prc">megelőzött</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азьпалтӥськем</l>
+     <l pos="Prc">азьпалтӥськем</l>
      <stg>
        <st Contlex="PRC_">азьпалтӥськем</st>
      </stg>
@@ -514,13 +514,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">megelőzött</t>
+       <t pos="Prc">megelőzött</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азьтэмскись</l>
+     <l pos="Prc">азьтэмскись</l>
      <stg>
        <st Contlex="PRC_">азьтэмскись</st>
      </stg>
@@ -528,13 +528,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">lustálkodó</t>
+       <t pos="Prc">lustálkodó</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">азэм</l>
+     <l pos="Prc">азэм</l>
      <stg>
        <st Contlex="PRC_">азэм</st>
      </stg>
@@ -542,13 +542,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">rozsnok-</t>
+       <t pos="Prc">rozsnok-</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">актэмъяськись</l>
+     <l pos="Prc">актэмъяськись</l>
      <stg>
        <st Contlex="PRC_">актэмъяськись</st>
      </stg>
@@ -556,17 +556,17 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">pajkos</t>
+       <t pos="Prc">pajkos</t>
 
-       <t pos="PRC">csintalan</t>
+       <t pos="Prc">csintalan</t>
 
-       <t pos="PRC">csintalankodó</t>
+       <t pos="Prc">csintalankodó</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">акылляськись</l>
+     <l pos="Prc">акылляськись</l>
      <stg>
        <st Contlex="PRC_">акылляськись</st>
      </stg>
@@ -574,19 +574,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">szemtelenkedő</t>
+       <t pos="Prc">szemtelenkedő</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> csintalankodó</t>
+       <t pos="Prc">csintalankodó</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">акыльтэм</l>
+     <l pos="Prc">акыльтэм</l>
      <stg>
        <st Contlex="PRC_">акыльтэм</st>
      </stg>
@@ -594,13 +594,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">megunt</t>
+       <t pos="Prc">megunt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">акыльтэмъяськем</l>
+     <l pos="Prc">акыльтэмъяськем</l>
      <stg>
        <st Contlex="PRC_">акыльтэмъяськем</st>
      </stg>
@@ -608,19 +608,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">csintalan</t>
+       <t pos="Prc">csintalan</t>
 
-       <t pos="PRC">pajkos</t>
+       <t pos="Prc">pajkos</t>
 
-       <t pos="PRC">szemtelen</t>
+       <t pos="Prc">szemtelen</t>
 
-       <t pos="PRC">nem engedelmeskedő</t>
+       <t pos="Prc">nem engedelmeskedő</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">акыльтэмъяськись</l>
+     <l pos="Prc">акыльтэмъяськись</l>
      <stg>
        <st Contlex="PRC_">акыльтэмъяськись</st>
      </stg>
@@ -628,19 +628,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">csintalan</t>
+       <t pos="Prc">csintalan</t>
 
-       <t pos="PRC">pajkos</t>
+       <t pos="Prc">pajkos</t>
 
-       <t pos="PRC">szemtelen</t>
+       <t pos="Prc">szemtelen</t>
 
-       <t pos="PRC">nem engedelmeskedő</t>
+       <t pos="Prc">nem engedelmeskedő</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">алдам</l>
+     <l pos="Prc">алдам</l>
      <stg>
        <st Contlex="PRC_">алдам</st>
      </stg>
@@ -648,19 +648,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">hamis</t>
+       <t pos="Prc">hamis</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC">hamisított</t>
+       <t pos="Prc">hamisított</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">алдась</l>
+     <l pos="Prc">алдась</l>
      <stg>
        <st Contlex="PRC_">алдась</st>
      </stg>
@@ -668,25 +668,25 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">hazudó</t>
+       <t pos="Prc">hazudó</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> megcsaló</t>
+       <t pos="Prc">megcsaló</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> elvesztő</t>
+       <t pos="Prc">elvesztő</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">алдаськем</l>
+     <l pos="Prc">алдаськем</l>
      <stg>
        <st Contlex="PRC_">алдаськем</st>
      </stg>
@@ -694,19 +694,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">hazudó</t>
+       <t pos="Prc">hazudó</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> csaló</t>
+       <t pos="Prc">csaló</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">алдаськись</l>
+     <l pos="Prc">алдаськись</l>
      <stg>
        <st Contlex="PRC_">алдаськись</st>
      </stg>
@@ -714,19 +714,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">hazudó</t>
+       <t pos="Prc">hazudó</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> csaló</t>
+       <t pos="Prc">csaló</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">алекъяськись</l>
+     <l pos="Prc">алекъяськись</l>
      <stg>
        <st Contlex="PRC_">алекъяськись</st>
      </stg>
@@ -734,27 +734,27 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">ideges</t>
+       <t pos="Prc">ideges</t>
 
-       <t pos="PRC">indulatos</t>
+       <t pos="Prc">indulatos</t>
 
-       <t pos="PRC">ingerlékeny</t>
+       <t pos="Prc">ingerlékeny</t>
 
-       <t pos="PRC">kiegyensúlyozatlan</t>
+       <t pos="Prc">kiegyensúlyozatlan</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> besúgó</t>
+       <t pos="Prc">besúgó</t>
 
-       <t pos="PRC">árulkodó</t>
+       <t pos="Prc">árulkodó</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">алляськись</l>
+     <l pos="Prc">алляськись</l>
      <stg>
        <st Contlex="PRC_">алляськись</st>
      </stg>
@@ -762,15 +762,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">hullámzó</t>
+       <t pos="Prc">hullámzó</t>
 
-       <t pos="PRC">lengő</t>
+       <t pos="Prc">lengő</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">алышмем</l>
+     <l pos="Prc">алышмем</l>
      <stg>
        <st Contlex="PRC_">алышмем</st>
      </stg>
@@ -778,17 +778,17 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">mohó</t>
+       <t pos="Prc">mohó</t>
 
-       <t pos="PRC">kapzsi</t>
+       <t pos="Prc">kapzsi</t>
 
-       <t pos="PRC">telhetetlen</t>
+       <t pos="Prc">telhetetlen</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">альсырам</l>
+     <l pos="Prc">альсырам</l>
      <stg>
        <st Contlex="PRC_">альсырам</st>
      </stg>
@@ -796,15 +796,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">elgyengült</t>
+       <t pos="Prc">elgyengült</t>
 
-       <t pos="PRC">elfáradt</t>
+       <t pos="Prc">elfáradt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">альтэм</l>
+     <l pos="Prc">альтэм</l>
      <stg>
        <st Contlex="PRC_">альтэм</st>
      </stg>
@@ -812,19 +812,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">fújt</t>
+       <t pos="Prc">fújt</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> elterjedt</t>
+       <t pos="Prc">elterjedt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">алэм</l>
+     <l pos="Prc">алэм</l>
      <stg>
        <st Contlex="PRC_">алэм</st>
      </stg>
@@ -832,13 +832,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">tiltott</t>
+       <t pos="Prc">tiltott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">алям</l>
+     <l pos="Prc">алям</l>
      <stg>
        <st Contlex="PRC_">алям</st>
      </stg>
@@ -846,19 +846,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">elterjedt</t>
+       <t pos="Prc">elterjedt</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> keletkezett</t>
+       <t pos="Prc">keletkezett</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">алясь</l>
+     <l pos="Prc">алясь</l>
      <stg>
        <st Contlex="PRC_">алясь</st>
      </stg>
@@ -866,19 +866,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">terjedő</t>
+       <t pos="Prc">terjedő</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> keletkező</t>
+       <t pos="Prc">keletkező</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">амалскем</l>
+     <l pos="Prc">амалскем</l>
      <stg>
        <st Contlex="PRC_">амалскем</st>
      </stg>
@@ -886,19 +886,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">tettetett</t>
+       <t pos="Prc">tettetett</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> furfangos</t>
+       <t pos="Prc">furfangos</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">амалтэм</l>
+     <l pos="Prc">амалтэм</l>
      <stg>
        <st Contlex="PRC_">амалтэм</st>
      </stg>
@@ -906,27 +906,27 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">akaratlan</t>
+       <t pos="Prc">akaratlan</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> készség</t>
+       <t pos="Prc">készség</t>
 
-       <t pos="PRC">intelligencia nélküli</t>
+       <t pos="Prc">intelligencia nélküli</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> trükkök nélküli</t>
+       <t pos="Prc">trükkök nélküli</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">амалтӥськем</l>
+     <l pos="Prc">амалтӥськем</l>
      <stg>
        <st Contlex="PRC_">амалтӥськем</st>
      </stg>
@@ -934,19 +934,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">értő</t>
+       <t pos="Prc">értő</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> tettető</t>
+       <t pos="Prc">tettető</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">аналмем</l>
+     <l pos="Prc">аналмем</l>
      <stg>
        <st Contlex="PRC_">аналмем</st>
      </stg>
@@ -954,19 +954,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">gondozatlan</t>
+       <t pos="Prc">gondozatlan</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> figyelmen kívül hagyott</t>
+       <t pos="Prc">figyelmen kívül hagyott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">аналскем</l>
+     <l pos="Prc">аналскем</l>
      <stg>
        <st Contlex="PRC_">аналскем</st>
      </stg>
@@ -974,15 +974,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">szimulált</t>
+       <t pos="Prc">szimulált</t>
 
-       <t pos="PRC">tettetett</t>
+       <t pos="Prc">tettetett</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">аналскись</l>
+     <l pos="Prc">аналскись</l>
      <stg>
        <st Contlex="PRC_">аналскись</st>
      </stg>
@@ -990,19 +990,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">szimuláló</t>
+       <t pos="Prc">szimuláló</t>
 
-       <t pos="PRC">tettető</t>
+       <t pos="Prc">tettető</t>
 
-       <t pos="PRC">lusta</t>
+       <t pos="Prc">lusta</t>
 
-       <t pos="PRC">érdektelen</t>
+       <t pos="Prc">érdektelen</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">аналтэм</l>
+     <l pos="Prc">аналтэм</l>
      <stg>
        <st Contlex="PRC_">аналтэм</st>
      </stg>
@@ -1010,25 +1010,25 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">őrizetlen</t>
+       <t pos="Prc">őrizetlen</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> befejezetlen</t>
+       <t pos="Prc">befejezetlen</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> elhanyagolt</t>
+       <t pos="Prc">elhanyagolt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">аналтӥськем</l>
+     <l pos="Prc">аналтӥськем</l>
      <stg>
        <st Contlex="PRC_">аналтӥськем</st>
      </stg>
@@ -1036,15 +1036,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">szimulált</t>
+       <t pos="Prc">szimulált</t>
 
-       <t pos="PRC">tettetett</t>
+       <t pos="Prc">tettetett</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">аналтӥськись</l>
+     <l pos="Prc">аналтӥськись</l>
      <stg>
        <st Contlex="PRC_">аналтӥськись</st>
      </stg>
@@ -1052,19 +1052,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">szimuláló</t>
+       <t pos="Prc">szimuláló</t>
 
-       <t pos="PRC">tettető</t>
+       <t pos="Prc">tettető</t>
 
-       <t pos="PRC">lusta</t>
+       <t pos="Prc">lusta</t>
 
-       <t pos="PRC">érdektelen</t>
+       <t pos="Prc">érdektelen</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">арам</l>
+     <l pos="Prc">арам</l>
      <stg>
        <st Contlex="PRC_">арам</st>
      </stg>
@@ -1072,19 +1072,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">aratott</t>
+       <t pos="Prc">aratott</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> leégett</t>
+       <t pos="Prc">leégett</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">арась</l>
+     <l pos="Prc">арась</l>
      <stg>
        <st Contlex="PRC_">арась</st>
      </stg>
@@ -1092,13 +1092,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">arató</t>
+       <t pos="Prc">arató</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">аратӥсь</l>
+     <l pos="Prc">аратӥсь</l>
      <stg>
        <st Contlex="PRC_">аратӥсь</st>
      </stg>
@@ -1106,19 +1106,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">arattató</t>
+       <t pos="Prc">arattató</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> meggyújtató</t>
+       <t pos="Prc">meggyújtató</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">ашкынэм</l>
+     <l pos="Prc">ашкынэм</l>
      <stg>
        <st Contlex="PRC_">ашкынэм</st>
      </stg>
@@ -1126,15 +1126,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">elvadult</t>
+       <t pos="Prc">elvadult</t>
 
-       <t pos="PRC">féktelen</t>
+       <t pos="Prc">féktelen</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бабем</l>
+     <l pos="Prc">бабем</l>
      <stg>
        <st Contlex="PRC_">бабем</st>
      </stg>
@@ -1142,13 +1142,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">elaludt</t>
+       <t pos="Prc">elaludt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бабись</l>
+     <l pos="Prc">бабись</l>
      <stg>
        <st Contlex="PRC_">бабись</st>
      </stg>
@@ -1156,13 +1156,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">alvó</t>
+       <t pos="Prc">alvó</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бабыльскем</l>
+     <l pos="Prc">бабыльскем</l>
      <stg>
        <st Contlex="PRC_">бабыльскем</st>
      </stg>
@@ -1170,19 +1170,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">göndörödött</t>
+       <t pos="Prc">göndörödött</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> bodorodott</t>
+       <t pos="Prc">bodorodott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бабыльтэм</l>
+     <l pos="Prc">бабыльтэм</l>
      <stg>
        <st Contlex="PRC_">бабыльтэм</st>
      </stg>
@@ -1190,29 +1190,29 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">göndörített</t>
+       <t pos="Prc">göndörített</t>
 
-       <t pos="PRC">bodorított</t>
+       <t pos="Prc">bodorított</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> gyúrt</t>
+       <t pos="Prc">gyúrt</t>
 
-       <t pos="PRC">formált</t>
+       <t pos="Prc">formált</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> ványolt</t>
+       <t pos="Prc">ványolt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бабыльтӥськем</l>
+     <l pos="Prc">бабыльтӥськем</l>
      <stg>
        <st Contlex="PRC_">бабыльтӥськем</st>
      </stg>
@@ -1220,19 +1220,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">göndörödött</t>
+       <t pos="Prc">göndörödött</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> bodorodott</t>
+       <t pos="Prc">bodorodott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бадӟыматэм</l>
+     <l pos="Prc">бадӟыматэм</l>
      <stg>
        <st Contlex="PRC_">бадӟыматэм</st>
      </stg>
@@ -1240,19 +1240,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">nagyított</t>
+       <t pos="Prc">nagyított</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> eltúlzott</t>
+       <t pos="Prc">eltúlzott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бадӟыматӥсь</l>
+     <l pos="Prc">бадӟыматӥсь</l>
      <stg>
        <st Contlex="PRC_">бадӟыматӥсь</st>
      </stg>
@@ -1260,13 +1260,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">nagyító</t>
+       <t pos="Prc">nagyító</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бадӟыматӥськем</l>
+     <l pos="Prc">бадӟыматӥськем</l>
      <stg>
        <st Contlex="PRC_">бадӟыматӥськем</st>
      </stg>
@@ -1274,15 +1274,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">megnőtt</t>
+       <t pos="Prc">megnőtt</t>
 
-       <t pos="PRC">nagyobbá lett</t>
+       <t pos="Prc">nagyobbá lett</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бадӟымъяськем</l>
+     <l pos="Prc">бадӟымъяськем</l>
      <stg>
        <st Contlex="PRC_">бадӟымъяськем</st>
      </stg>
@@ -1290,13 +1290,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">elbizakodott</t>
+       <t pos="Prc">elbizakodott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бадӟымъяськись</l>
+     <l pos="Prc">бадӟымъяськись</l>
      <stg>
        <st Contlex="PRC_">бадӟымъяськись</st>
      </stg>
@@ -1304,15 +1304,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">elbizakodó</t>
+       <t pos="Prc">elbizakodó</t>
 
-       <t pos="PRC">nagyképű</t>
+       <t pos="Prc">nagyképű</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">базлась</l>
+     <l pos="Prc">базлась</l>
      <stg>
        <st Contlex="PRC_">базлась</st>
      </stg>
@@ -1320,15 +1320,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">kiabáló</t>
+       <t pos="Prc">kiabáló</t>
 
-       <t pos="PRC">hangoskodó</t>
+       <t pos="Prc">hangoskodó</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">байланӥсь</l>
+     <l pos="Prc">байланӥсь</l>
      <stg>
        <st Contlex="PRC_">байланӥсь</st>
      </stg>
@@ -1336,13 +1336,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">kötekedő</t>
+       <t pos="Prc">kötekedő</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бакчись</l>
+     <l pos="Prc">бакчись</l>
      <stg>
        <st Contlex="PRC_">бакчись</st>
      </stg>
@@ -1350,19 +1350,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">dadogó</t>
+       <t pos="Prc">dadogó</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> megnémuló</t>
+       <t pos="Prc">megnémuló</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">басьтэм</l>
+     <l pos="Prc">басьтэм</l>
      <stg>
        <st Contlex="PRC_">басьтэм</st>
      </stg>
@@ -1370,25 +1370,25 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">vett</t>
+       <t pos="Prc">vett</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> szerzett</t>
+       <t pos="Prc">szerzett</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> nyert</t>
+       <t pos="Prc">nyert</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">басьтӥсь</l>
+     <l pos="Prc">басьтӥсь</l>
      <stg>
        <st Contlex="PRC_">басьтӥсь</st>
      </stg>
@@ -1396,27 +1396,27 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">vevő</t>
+       <t pos="Prc">vevő</t>
 
-       <t pos="PRC">vásárló</t>
+       <t pos="Prc">vásárló</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> szerző</t>
+       <t pos="Prc">szerző</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> nyerő</t>
+       <t pos="Prc">nyerő</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">басьтӥськись</l>
+     <l pos="Prc">басьтӥськись</l>
      <stg>
        <st Contlex="PRC_">басьтӥськись</st>
      </stg>
@@ -1424,13 +1424,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">bevásárló</t>
+       <t pos="Prc">bevásárló</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">басьяськем</l>
+     <l pos="Prc">басьяськем</l>
      <stg>
        <st Contlex="PRC_">басьяськем</st>
      </stg>
@@ -1438,13 +1438,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">megvásárolt</t>
+       <t pos="Prc">megvásárolt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">басьяськись</l>
+     <l pos="Prc">басьяськись</l>
      <stg>
        <st Contlex="PRC_">басьяськись</st>
      </stg>
@@ -1452,15 +1452,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">vásárló</t>
+       <t pos="Prc">vásárló</t>
 
-       <t pos="PRC">vevő</t>
+       <t pos="Prc">vevő</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">батыръяськем</l>
+     <l pos="Prc">батыръяськем</l>
      <stg>
        <st Contlex="PRC_">батыръяськем</st>
      </stg>
@@ -1468,23 +1468,23 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">bátornak tettetett</t>
+       <t pos="Prc">bátornak tettetett</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> büszkélkedett</t>
+       <t pos="Prc">büszkélkedett</t>
 
-       <t pos="PRC">dicsekedett</t>
+       <t pos="Prc">dicsekedett</t>
 
-       <t pos="PRC">hencegett</t>
+       <t pos="Prc">hencegett</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">батыръяськись</l>
+     <l pos="Prc">батыръяськись</l>
      <stg>
        <st Contlex="PRC_">батыръяськись</st>
      </stg>
@@ -1492,17 +1492,17 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">büszkélkedő</t>
+       <t pos="Prc">büszkélkedő</t>
 
-       <t pos="PRC">dicsekvő</t>
+       <t pos="Prc">dicsekvő</t>
 
-       <t pos="PRC">hencegő</t>
+       <t pos="Prc">hencegő</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бездэм</l>
+     <l pos="Prc">бездэм</l>
      <stg>
        <st Contlex="PRC_">бездэм</st>
      </stg>
@@ -1510,19 +1510,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">fakult</t>
+       <t pos="Prc">fakult</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> vedlett</t>
+       <t pos="Prc">vedlett</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бекмылляськем</l>
+     <l pos="Prc">бекмылляськем</l>
      <stg>
        <st Contlex="PRC_">бекмылляськем</st>
      </stg>
@@ -1530,25 +1530,25 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">megdőlt</t>
+       <t pos="Prc">megdőlt</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> eldőlt</t>
+       <t pos="Prc">eldőlt</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> elmerült</t>
+       <t pos="Prc">elmerült</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бекмыльтӥськем</l>
+     <l pos="Prc">бекмыльтӥськем</l>
      <stg>
        <st Contlex="PRC_">бекмыльтӥськем</st>
      </stg>
@@ -1556,25 +1556,25 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">megdőlt</t>
+       <t pos="Prc">megdőlt</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> eldőlt</t>
+       <t pos="Prc">eldőlt</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> elmerült</t>
+       <t pos="Prc">elmerült</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бекырскем</l>
+     <l pos="Prc">бекырскем</l>
      <stg>
        <st Contlex="PRC_">бекырскем</st>
      </stg>
@@ -1582,15 +1582,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">eldőlt</t>
+       <t pos="Prc">eldőlt</t>
 
-       <t pos="PRC">megdőlt</t>
+       <t pos="Prc">megdőlt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бералскем</l>
+     <l pos="Prc">бералскем</l>
      <stg>
        <st Contlex="PRC_">бералскем</st>
      </stg>
@@ -1598,13 +1598,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">kificamosott</t>
+       <t pos="Prc">kificamosott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бералтӥськем</l>
+     <l pos="Prc">бералтӥськем</l>
      <stg>
        <st Contlex="PRC_">бералтӥськем</st>
      </stg>
@@ -1612,13 +1612,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">kificamodott</t>
+       <t pos="Prc">kificamodott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бергам</l>
+     <l pos="Prc">бергам</l>
      <stg>
        <st Contlex="PRC_">бергам</st>
      </stg>
@@ -1626,19 +1626,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">forgó</t>
+       <t pos="Prc">forgó</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> táncoló</t>
+       <t pos="Prc">táncoló</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">берланьскем</l>
+     <l pos="Prc">берланьскем</l>
      <stg>
        <st Contlex="PRC_">берланьскем</st>
      </stg>
@@ -1646,25 +1646,25 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">hátrafordult</t>
+       <t pos="Prc">hátrafordult</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> visszavont</t>
+       <t pos="Prc">visszavont</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> szenilissé vált</t>
+       <t pos="Prc">szenilissé vált</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">берланьтӥськем</l>
+     <l pos="Prc">берланьтӥськем</l>
      <stg>
        <st Contlex="PRC_">берланьтӥськем</st>
      </stg>
@@ -1672,25 +1672,25 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">hátra fordult</t>
+       <t pos="Prc">hátra fordult</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> visszavont</t>
+       <t pos="Prc">visszavont</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> szenilis lett</t>
+       <t pos="Prc">szenilis lett</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бертэм</l>
+     <l pos="Prc">бертэм</l>
      <stg>
        <st Contlex="PRC_">бертэм</st>
      </stg>
@@ -1698,15 +1698,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">hazatért</t>
+       <t pos="Prc">hazatért</t>
 
-       <t pos="PRC">visszatért</t>
+       <t pos="Prc">visszatért</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бертӥсь</l>
+     <l pos="Prc">бертӥсь</l>
      <stg>
        <st Contlex="PRC_">бертӥсь</st>
      </stg>
@@ -1714,25 +1714,25 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">visszatérő</t>
+       <t pos="Prc">visszatérő</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> visszamenő</t>
+       <t pos="Prc">visszamenő</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> hazatérő</t>
+       <t pos="Prc">hazatérő</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">берыктэм</l>
+     <l pos="Prc">берыктэм</l>
      <stg>
        <st Contlex="PRC_">берыктэм</st>
      </stg>
@@ -1740,51 +1740,51 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">fordított</t>
+       <t pos="Prc">fordított</t>
 
-       <t pos="PRC">átfordított</t>
+       <t pos="Prc">átfordított</t>
 
-       <t pos="PRC">megfordított</t>
+       <t pos="Prc">megfordított</t>
 
-       <t pos="PRC">kifordított</t>
+       <t pos="Prc">kifordított</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> lefordított</t>
+       <t pos="Prc">lefordított</t>
 
-       <t pos="PRC">tolmácsolt</t>
+       <t pos="Prc">tolmácsolt</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> visszaadott</t>
+       <t pos="Prc">visszaadott</t>
 
-       <t pos="PRC">visszahozott</t>
+       <t pos="Prc">visszahozott</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> visszafizetett</t>
+       <t pos="Prc">visszafizetett</t>
 
-       <t pos="PRC">megfizetett</t>
+       <t pos="Prc">megfizetett</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> lepárolt</t>
+       <t pos="Prc">lepárolt</t>
 
-       <t pos="PRC">desztillált</t>
+       <t pos="Prc">desztillált</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">берыктӥсь</l>
+     <l pos="Prc">берыктӥсь</l>
      <stg>
        <st Contlex="PRC_">берыктӥсь</st>
      </stg>
@@ -1792,51 +1792,51 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">fordító</t>
+       <t pos="Prc">fordító</t>
 
-       <t pos="PRC">átfordító</t>
+       <t pos="Prc">átfordító</t>
 
-       <t pos="PRC">megfordító</t>
+       <t pos="Prc">megfordító</t>
 
-       <t pos="PRC">kifordító</t>
+       <t pos="Prc">kifordító</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> lefordító</t>
+       <t pos="Prc">lefordító</t>
 
-       <t pos="PRC">tolmácsoló</t>
+       <t pos="Prc">tolmácsoló</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> visszaadó</t>
+       <t pos="Prc">visszaadó</t>
 
-       <t pos="PRC">visszahozó</t>
+       <t pos="Prc">visszahozó</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> visszafizető</t>
+       <t pos="Prc">visszafizető</t>
 
-       <t pos="PRC">megfizető</t>
+       <t pos="Prc">megfizető</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> lepárló</t>
+       <t pos="Prc">lepárló</t>
 
-       <t pos="PRC">desztilláló</t>
+       <t pos="Prc">desztilláló</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">берыктӥськем</l>
+     <l pos="Prc">берыктӥськем</l>
      <stg>
        <st Contlex="PRC_">берыктӥськем</st>
      </stg>
@@ -1844,49 +1844,49 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">visszafordult</t>
+       <t pos="Prc">visszafordult</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> felé fordult</t>
+       <t pos="Prc">felé fordult</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> átfordult</t>
+       <t pos="Prc">átfordult</t>
 
-       <t pos="PRC">átváltozott</t>
+       <t pos="Prc">átváltozott</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> lepárlódott</t>
+       <t pos="Prc">lepárlódott</t>
 
-       <t pos="PRC">desztillálódott</t>
+       <t pos="Prc">desztillálódott</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> szédült</t>
+       <t pos="Prc">szédült</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> megalvadt</t>
+       <t pos="Prc">megalvadt</t>
 
-       <t pos="PRC">koagulált</t>
+       <t pos="Prc">koagulált</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">берытскем</l>
+     <l pos="Prc">берытскем</l>
      <stg>
        <st Contlex="PRC_">берытскем</st>
      </stg>
@@ -1894,49 +1894,49 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">visszafordult</t>
+       <t pos="Prc">visszafordult</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> felé fordult</t>
+       <t pos="Prc">felé fordult</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> átfordult</t>
+       <t pos="Prc">átfordult</t>
 
-       <t pos="PRC">átváltozott</t>
+       <t pos="Prc">átváltozott</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> lepárlódott</t>
+       <t pos="Prc">lepárlódott</t>
 
-       <t pos="PRC">desztillálódott</t>
+       <t pos="Prc">desztillálódott</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> szédült</t>
+       <t pos="Prc">szédült</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> megalvadt</t>
+       <t pos="Prc">megalvadt</t>
 
-       <t pos="PRC">koagulált</t>
+       <t pos="Prc">koagulált</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бинем</l>
+     <l pos="Prc">бинем</l>
      <stg>
        <st Contlex="PRC_">бинем</st>
      </stg>
@@ -1944,21 +1944,21 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">tekert</t>
+       <t pos="Prc">tekert</t>
 
-       <t pos="PRC">kötegelt</t>
+       <t pos="Prc">kötegelt</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> csomagolt</t>
+       <t pos="Prc">csomagolt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">биниськем</l>
+     <l pos="Prc">биниськем</l>
      <stg>
        <st Contlex="PRC_">биниськем</st>
      </stg>
@@ -1966,33 +1966,33 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">feltekeredett</t>
+       <t pos="Prc">feltekeredett</t>
 
-       <t pos="PRC">rátekeredett</t>
+       <t pos="Prc">rátekeredett</t>
 
-       <t pos="PRC">összetekeredett</t>
+       <t pos="Prc">összetekeredett</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> felcsavarodott</t>
+       <t pos="Prc">felcsavarodott</t>
 
-       <t pos="PRC">rácsavarodott</t>
+       <t pos="Prc">rácsavarodott</t>
 
-       <t pos="PRC">összecsavarodott</t>
+       <t pos="Prc">összecsavarodott</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> összekuszálódott</t>
+       <t pos="Prc">összekuszálódott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">биньылэм</l>
+     <l pos="Prc">биньылэм</l>
      <stg>
        <st Contlex="PRC_">биньылэм</st>
      </stg>
@@ -2000,47 +2000,47 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">feltekert</t>
+       <t pos="Prc">feltekert</t>
 
-       <t pos="PRC">rátekert</t>
+       <t pos="Prc">rátekert</t>
 
-       <t pos="PRC">összetekert</t>
+       <t pos="Prc">összetekert</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> felgöngyölített</t>
+       <t pos="Prc">felgöngyölített</t>
 
-       <t pos="PRC">felcsavart</t>
+       <t pos="Prc">felcsavart</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> begöngyölt</t>
+       <t pos="Prc">begöngyölt</t>
 
-       <t pos="PRC">becsavart</t>
+       <t pos="Prc">becsavart</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> bekötözött</t>
+       <t pos="Prc">bekötözött</t>
 
-       <t pos="PRC">bekötött</t>
+       <t pos="Prc">bekötött</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> pelenkázott</t>
+       <t pos="Prc">pelenkázott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">биняллям</l>
+     <l pos="Prc">биняллям</l>
      <stg>
        <st Contlex="PRC_">биняллям</st>
      </stg>
@@ -2048,29 +2048,29 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">csomagolt</t>
+       <t pos="Prc">csomagolt</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> feltekert</t>
+       <t pos="Prc">feltekert</t>
 
-       <t pos="PRC">felcsavart</t>
+       <t pos="Prc">felcsavart</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> pelenkázott</t>
+       <t pos="Prc">pelenkázott</t>
 
-       <t pos="PRC">pólyált</t>
+       <t pos="Prc">pólyált</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бинялтэм</l>
+     <l pos="Prc">бинялтэм</l>
      <stg>
        <st Contlex="PRC_">бинялтэм</st>
      </stg>
@@ -2078,31 +2078,31 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">feltekert</t>
+       <t pos="Prc">feltekert</t>
 
-       <t pos="PRC">felgöngyölt</t>
+       <t pos="Prc">felgöngyölt</t>
 
-       <t pos="PRC">felcsavart</t>
+       <t pos="Prc">felcsavart</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> begöngyölt</t>
+       <t pos="Prc">begöngyölt</t>
 
-       <t pos="PRC">becsavart</t>
+       <t pos="Prc">becsavart</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> bepelenkázott</t>
+       <t pos="Prc">bepelenkázott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бирдыяськем</l>
+     <l pos="Prc">бирдыяськем</l>
      <stg>
        <st Contlex="PRC_">бирдыяськем</st>
      </stg>
@@ -2110,13 +2110,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">begombolkozott</t>
+       <t pos="Prc">begombolkozott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бичалляськем</l>
+     <l pos="Prc">бичалляськем</l>
      <stg>
        <st Contlex="PRC_">бичалляськем</st>
      </stg>
@@ -2124,21 +2124,21 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">szedett</t>
+       <t pos="Prc">szedett</t>
 
-       <t pos="PRC">begyűjtött</t>
+       <t pos="Prc">begyűjtött</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> megvásárolt</t>
+       <t pos="Prc">megvásárolt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бичам</l>
+     <l pos="Prc">бичам</l>
      <stg>
        <st Contlex="PRC_">бичам</st>
      </stg>
@@ -2146,21 +2146,21 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">szedett</t>
+       <t pos="Prc">szedett</t>
 
-       <t pos="PRC">begyűjtött</t>
+       <t pos="Prc">begyűjtött</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> megvásárolt</t>
+       <t pos="Prc">megvásárolt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бичась</l>
+     <l pos="Prc">бичась</l>
      <stg>
        <st Contlex="PRC_">бичась</st>
      </stg>
@@ -2168,21 +2168,21 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">szedő</t>
+       <t pos="Prc">szedő</t>
 
-       <t pos="PRC">gyűjtő</t>
+       <t pos="Prc">gyűjtő</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> vásárló</t>
+       <t pos="Prc">vásárló</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бичаськись</l>
+     <l pos="Prc">бичаськись</l>
      <stg>
        <st Contlex="PRC_">бичаськись</st>
      </stg>
@@ -2190,21 +2190,21 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">szedő</t>
+       <t pos="Prc">szedő</t>
 
-       <t pos="PRC">gyűjtő</t>
+       <t pos="Prc">gyűjtő</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> vásárló</t>
+       <t pos="Prc">vásárló</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бичатӥсь</l>
+     <l pos="Prc">бичатӥсь</l>
      <stg>
        <st Contlex="PRC_">бичатӥсь</st>
      </stg>
@@ -2212,19 +2212,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">vásároltató</t>
+       <t pos="Prc">vásároltató</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> csiklandozó</t>
+       <t pos="Prc">csiklandozó</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бозгетӥсь</l>
+     <l pos="Prc">бозгетӥсь</l>
      <stg>
        <st Contlex="PRC_">бозгетӥсь</st>
      </stg>
@@ -2232,17 +2232,17 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">zúgó</t>
+       <t pos="Prc">zúgó</t>
 
-       <t pos="PRC">dongó</t>
+       <t pos="Prc">dongó</t>
 
-       <t pos="PRC">zümmögő</t>
+       <t pos="Prc">zümmögő</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бордъяськем</l>
+     <l pos="Prc">бордъяськем</l>
      <stg>
        <st Contlex="PRC_">бордъяськем</st>
      </stg>
@@ -2250,13 +2250,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">gombolyagba tekert</t>
+       <t pos="Prc">gombolyagba tekert</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">борӟаськем</l>
+     <l pos="Prc">борӟаськем</l>
      <stg>
        <st Contlex="PRC_">борӟаськем</st>
      </stg>
@@ -2264,19 +2264,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">fonott</t>
+       <t pos="Prc">fonott</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> bereteszelt</t>
+       <t pos="Prc">bereteszelt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бугыръяськем</l>
+     <l pos="Prc">бугыръяськем</l>
      <stg>
        <st Contlex="PRC_">бугыръяськем</st>
      </stg>
@@ -2284,49 +2284,49 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">gomolygott</t>
+       <t pos="Prc">gomolygott</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> zendült</t>
+       <t pos="Prc">zendült</t>
 
-       <t pos="PRC">lázadt</t>
+       <t pos="Prc">lázadt</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> hullámzott</t>
+       <t pos="Prc">hullámzott</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> nyüzsgött</t>
+       <t pos="Prc">nyüzsgött</t>
 
-       <t pos="PRC">hemzsegett</t>
+       <t pos="Prc">hemzsegett</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> fortyogott</t>
+       <t pos="Prc">fortyogott</t>
 
-       <t pos="PRC">bugyborékolt</t>
+       <t pos="Prc">bugyborékolt</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> vminek nekiverődött</t>
+       <t pos="Prc">vminek nekiverődött</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бугыръяськись</l>
+     <l pos="Prc">бугыръяськись</l>
      <stg>
        <st Contlex="PRC_">бугыръяськись</st>
      </stg>
@@ -2334,49 +2334,49 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">gomolygó</t>
+       <t pos="Prc">gomolygó</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> zendülő</t>
+       <t pos="Prc">zendülő</t>
 
-       <t pos="PRC">lázadó</t>
+       <t pos="Prc">lázadó</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> hullámzó</t>
+       <t pos="Prc">hullámzó</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> nyüzsgő</t>
+       <t pos="Prc">nyüzsgő</t>
 
-       <t pos="PRC">hemzsegő</t>
+       <t pos="Prc">hemzsegő</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> fortyogó</t>
+       <t pos="Prc">fortyogó</t>
 
-       <t pos="PRC">bugyborékoló</t>
+       <t pos="Prc">bugyborékoló</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> vminek nekiverődő</t>
+       <t pos="Prc">vminek nekiverődő</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">будэм</l>
+     <l pos="Prc">будэм</l>
      <stg>
        <st Contlex="PRC_">будэм</st>
      </stg>
@@ -2384,15 +2384,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">nőtt</t>
+       <t pos="Prc">nőtt</t>
 
-       <t pos="PRC">nevelkedett</t>
+       <t pos="Prc">nevelkedett</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">буйгатскем</l>
+     <l pos="Prc">буйгатскем</l>
      <stg>
        <st Contlex="PRC_">буйгатскем</st>
      </stg>
@@ -2400,17 +2400,17 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">megnyugodott</t>
+       <t pos="Prc">megnyugodott</t>
 
-       <t pos="PRC">lecsillapodott</t>
+       <t pos="Prc">lecsillapodott</t>
 
-       <t pos="PRC">elcsendesedett</t>
+       <t pos="Prc">elcsendesedett</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">буйгатъям</l>
+     <l pos="Prc">буйгатъям</l>
      <stg>
        <st Contlex="PRC_">буйгатъям</st>
      </stg>
@@ -2418,17 +2418,17 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">megnyugodott</t>
+       <t pos="Prc">megnyugodott</t>
 
-       <t pos="PRC">lecsillapodott</t>
+       <t pos="Prc">lecsillapodott</t>
 
-       <t pos="PRC">elcsendesedett</t>
+       <t pos="Prc">elcsendesedett</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">буйгатӥсь</l>
+     <l pos="Prc">буйгатӥсь</l>
      <stg>
        <st Contlex="PRC_">буйгатӥсь</st>
      </stg>
@@ -2436,17 +2436,17 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">megnyugtató</t>
+       <t pos="Prc">megnyugtató</t>
 
-       <t pos="PRC">lecsillapító</t>
+       <t pos="Prc">lecsillapító</t>
 
-       <t pos="PRC">elcsendesítő</t>
+       <t pos="Prc">elcsendesítő</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">буйгатӥськем</l>
+     <l pos="Prc">буйгатӥськем</l>
      <stg>
        <st Contlex="PRC_">буйгатӥськем</st>
      </stg>
@@ -2454,13 +2454,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">megnyugodott</t>
+       <t pos="Prc">megnyugodott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бушам</l>
+     <l pos="Prc">бушам</l>
      <stg>
        <st Contlex="PRC_">бушам</st>
      </stg>
@@ -2468,13 +2468,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">kiürült</t>
+       <t pos="Prc">kiürült</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бушатэм</l>
+     <l pos="Prc">бушатэм</l>
      <stg>
        <st Contlex="PRC_">бушатэм</st>
      </stg>
@@ -2482,19 +2482,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">kiürített</t>
+       <t pos="Prc">kiürített</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> kirakott</t>
+       <t pos="Prc">kirakott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">буям</l>
+     <l pos="Prc">буям</l>
      <stg>
        <st Contlex="PRC_">буям</st>
      </stg>
@@ -2502,19 +2502,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">festett</t>
+       <t pos="Prc">festett</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> kétségbeesett</t>
+       <t pos="Prc">kétségbeesett</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">буясь</l>
+     <l pos="Prc">буясь</l>
      <stg>
        <st Contlex="PRC_">буясь</st>
      </stg>
@@ -2522,19 +2522,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">festő</t>
+       <t pos="Prc">festő</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> kétségbeeső</t>
+       <t pos="Prc">kétségbeeső</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">буёлась</l>
+     <l pos="Prc">буёлась</l>
      <stg>
        <st Contlex="PRC_">буёлась</st>
      </stg>
@@ -2542,13 +2542,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">festő</t>
+       <t pos="Prc">festő</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">буёласькем</l>
+     <l pos="Prc">буёласькем</l>
      <stg>
        <st Contlex="PRC_">буёласькем</st>
      </stg>
@@ -2556,13 +2556,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">festett</t>
+       <t pos="Prc">festett</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">буёласькись</l>
+     <l pos="Prc">буёласькись</l>
      <stg>
        <st Contlex="PRC_">буёласькись</st>
      </stg>
@@ -2570,27 +2570,27 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">festékessé váló</t>
+       <t pos="Prc">festékessé váló</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> festő</t>
+       <t pos="Prc">festő</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> sminkelő</t>
+       <t pos="Prc">sminkelő</t>
 
-       <t pos="PRC"></t>
+       <t pos="Prc"></t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">быгатымон</l>
+     <l pos="Prc">быгатымон</l>
      <stg>
        <st Contlex="PRC_">быгатымон</st>
      </stg>
@@ -2598,15 +2598,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">teljesen megvalósítható</t>
+       <t pos="Prc">teljesen megvalósítható</t>
 
-       <t pos="PRC">teljesen lehetséges</t>
+       <t pos="Prc">teljesen lehetséges</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">быгатӥсь</l>
+     <l pos="Prc">быгатӥсь</l>
      <stg>
        <st Contlex="PRC_">быгатӥсь</st>
      </stg>
@@ -2614,19 +2614,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">képes</t>
+       <t pos="Prc">képes</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> hozzáértő</t>
+       <t pos="Prc">hozzáértő</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">быгыльмем</l>
+     <l pos="Prc">быгыльмем</l>
      <stg>
        <st Contlex="PRC_">быгыльмем</st>
      </stg>
@@ -2634,25 +2634,25 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">összetekeredett</t>
+       <t pos="Prc">összetekeredett</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> kikerekedett</t>
+       <t pos="Prc">kikerekedett</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> eltompult</t>
+       <t pos="Prc">eltompult</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">быдтэм</l>
+     <l pos="Prc">быдтэм</l>
      <stg>
        <st Contlex="PRC_">быдтэм</st>
      </stg>
@@ -2660,39 +2660,39 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">elvégzett</t>
+       <t pos="Prc">elvégzett</t>
 
-       <t pos="PRC">bevégzett</t>
+       <t pos="Prc">bevégzett</t>
 
-       <t pos="PRC">befejezett</t>
+       <t pos="Prc">befejezett</t>
 
-       <t pos="PRC">teljessé tett</t>
+       <t pos="Prc">teljessé tett</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> elfogyasztott</t>
+       <t pos="Prc">elfogyasztott</t>
 
-       <t pos="PRC">felemésztett</t>
+       <t pos="Prc">felemésztett</t>
 
-       <t pos="PRC">elköltött</t>
+       <t pos="Prc">elköltött</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> tönkre tett</t>
+       <t pos="Prc">tönkre tett</t>
 
-       <t pos="PRC">elpusztítot</t>
+       <t pos="Prc">elpusztítot</t>
 
-       <t pos="PRC">megölt</t>
+       <t pos="Prc">megölt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">быдэсмем</l>
+     <l pos="Prc">быдэсмем</l>
      <stg>
        <st Contlex="PRC_">быдэсмем</st>
      </stg>
@@ -2700,25 +2700,25 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">befejezett</t>
+       <t pos="Prc">befejezett</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> felnőtté vált</t>
+       <t pos="Prc">felnőtté vált</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> megvalósult</t>
+       <t pos="Prc">megvalósult</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">быдӟияськем</l>
+     <l pos="Prc">быдӟияськем</l>
      <stg>
        <st Contlex="PRC_">быдӟияськем</st>
      </stg>
@@ -2726,15 +2726,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">gőgös</t>
+       <t pos="Prc">gőgös</t>
 
-       <t pos="PRC">dölyfös</t>
+       <t pos="Prc">dölyfös</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">быдӟымъяськем</l>
+     <l pos="Prc">быдӟымъяськем</l>
      <stg>
        <st Contlex="PRC_">быдӟымъяськем</st>
      </stg>
@@ -2742,13 +2742,13 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">nagyzolt</t>
+       <t pos="Prc">nagyzolt</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">быдӟымъяськись</l>
+     <l pos="Prc">быдӟымъяськись</l>
      <stg>
        <st Contlex="PRC_">быдӟымъяськись</st>
      </stg>
@@ -2756,15 +2756,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">nagyzoló</t>
+       <t pos="Prc">nagyzoló</t>
 
-       <t pos="PRC">felvágó</t>
+       <t pos="Prc">felvágó</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бызгетэм</l>
+     <l pos="Prc">бызгетэм</l>
      <stg>
        <st Contlex="PRC_">бызгетэм</st>
      </stg>
@@ -2772,25 +2772,25 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">körbe zümmögött</t>
+       <t pos="Prc">körbe zümmögött</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> megdörmögött</t>
+       <t pos="Prc">megdörmögött</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> megsiratott</t>
+       <t pos="Prc">megsiratott</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бызем</l>
+     <l pos="Prc">бызем</l>
      <stg>
        <st Contlex="PRC_">бызем</st>
      </stg>
@@ -2798,19 +2798,19 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">lefutott</t>
+       <t pos="Prc">lefutott</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> férjezett</t>
+       <t pos="Prc">férjezett</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="PRC">бызись</l>
+     <l pos="Prc">бызись</l>
      <stg>
        <st Contlex="PRC_">бызись</st>
      </stg>
@@ -2818,13 +2818,149 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="PRC">futó</t>
+       <t pos="Prc">futó</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="PRC"> áramló</t>
+       <t pos="Prc">áramló</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">бырдам</l>
+     <stg>
+       <st Contlex="PRC_">бырдам</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Prc">eljegesedett</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Prc">elzsírosodott</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Prc">felfortyant</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Prc">megdermedt</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">быректэм</l>
+     <stg>
+       <st Contlex="PRC_">быректэм</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Prc">forró</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">бырем</l>
+     <stg>
+       <st Contlex="PRC_">бырем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Prc">halott</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Prc">befejeződött</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Prc">elkészült</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">бырйись</l>
+     <stg>
+       <st Contlex="PRC_">бырйись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Prc">választó</t>
+       <t pos="Prc">válogató</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">бырйиськем</l>
+     <stg>
+       <st Contlex="PRC_">бырйиськем</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Prc">választott</t>
+       <t pos="Prc">válogatott</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Prc">szeszélyes</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">бырйиськись</l>
+     <stg>
+       <st Contlex="PRC_">бырйиськись</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Prc">választó</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Prc">szeszélyeskedő</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Prc">бырйымон</l>
+     <stg>
+       <st Contlex="PRC_">бырйымон</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Prc">választható</t>
+       <t pos="Prc">választék</t>
      </tg>
    </mg>
 </e>

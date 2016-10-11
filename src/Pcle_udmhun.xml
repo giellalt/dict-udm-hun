@@ -124,7 +124,7 @@
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="Pcle"> csak</t>
+       <t pos="Pcle">csak</t>
      </tg>
    </mg>
 </e>
@@ -146,7 +146,7 @@
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="Pcle"> csak</t>
+       <t pos="Pcle">csak</t>
      </tg>
    </mg>
 </e>
@@ -208,7 +208,7 @@
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="Pcle"> hát</t>
+       <t pos="Pcle">hát</t>
 
        <t pos="Pcle">dehát</t>
 
@@ -248,7 +248,7 @@
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="Pcle"> hát</t>
+       <t pos="Pcle">hát</t>
 
        <t pos="Pcle">dehát</t>
 
@@ -349,6 +349,47 @@
        <t pos="Pcle">kérem</t>
 
        <t pos="Pcle">nagyon kérem</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">бык</l>
+     <stg>
+       <st Contlex="PCLE_">бык</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">de</t>
+       <t pos="Pcle">hát</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Pcle">igen</t>
+       <t pos="Pcle">nagyon</t>
+       <t pos="Pcle">erősen</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pcle">быри-быри</l>
+     <stg>
+       <st Contlex="PCLE_">быри-быри</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Pcle">jaj, istenem!</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Pcle"></t>
      </tg>
    </mg>
 </e>

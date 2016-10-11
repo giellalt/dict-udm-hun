@@ -94,7 +94,7 @@
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="Descr"> le-föl</t>
+       <t pos="Descr">le-föl</t>
      </tg>
    </mg>
 </e>
@@ -190,13 +190,13 @@
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="Descr"> borult</t>
+       <t pos="Descr">borult</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="Descr"> átfordult</t>
+       <t pos="Descr">átfordult</t>
      </tg>
    </mg>
 </e>
@@ -324,7 +324,7 @@
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="Descr"> puhán</t>
+       <t pos="Descr">puhán</t>
 
        <t pos="Descr">lágyan</t>
      </tg>
@@ -422,7 +422,7 @@
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="Descr"> potty!</t>
+       <t pos="Descr">potty!</t>
      </tg>
    </mg>
 </e>
@@ -442,7 +442,7 @@
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="Descr"> potty</t>
+       <t pos="Descr">potty</t>
      </tg>
    </mg>
 </e>
@@ -568,7 +568,7 @@
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="Descr"> puhán</t>
+       <t pos="Descr">puhán</t>
 
        <t pos="Descr">lágyan</t>
      </tg>
@@ -640,7 +640,7 @@
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="Descr"> gyermek sírásának hangfestésére használt hangsor</t>
+       <t pos="Descr">gyermek sírásának hangfestésére használt hangsor</t>
      </tg>
    </mg>
 </e>
@@ -657,6 +657,190 @@
        <t pos="Descr">zzzzzzzzzz</t>
 
        <t pos="Descr">rovar döngése</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быз-быз</l>
+     <stg>
+       <st Contlex="DESCR_">быз-быз</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">zzzzzzzzzz</t>
+       <t pos="Descr">rovar döngése</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быз-з</l>
+     <stg>
+       <st Contlex="DESCR_">быз-з</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">zzzzzzzzzz</t>
+       <t pos="Descr">rovar döngése</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Descr">gyermek sírásának hangfestésére használt hangsor</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быкыр-бекыр</l>
+     <stg>
+       <st Contlex="DESCR_">быкыр-бекыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">ferdén</t>
+       <t pos="Descr">görbén</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быльк</l>
+     <stg>
+       <st Contlex="DESCR_">быльк</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">kidülledt szemmel</t>
+       <t pos="Descr">kimeresztett szemmel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быльк-быльк</l>
+     <stg>
+       <st Contlex="DESCR_">быльк-быльк</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">kidülledt szemmel</t>
+       <t pos="Descr">kimeresztett szemmel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быльыр</l>
+     <stg>
+       <st Contlex="DESCR_">быльыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">könnyes a szeme</t>
+       <t pos="Descr">könnyezik a szeme</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быльырак</l>
+     <stg>
+       <st Contlex="DESCR_">быльырак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">könnyes a szeme</t>
+       <t pos="Descr">könnyezik a szeme</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">быльыр-быльыр</l>
+     <stg>
+       <st Contlex="DESCR_">быльыр-быльыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">könnyes a szeme</t>
+       <t pos="Descr">könnyezik a szeme</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бырк-бырк</l>
+     <stg>
+       <st Contlex="DESCR_">бырк-бырк</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">dub-dub</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Descr">kipp-kopp</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бычырак</l>
+     <stg>
+       <st Contlex="DESCR_">бычырак</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">hevesen</t>
+       <t pos="Descr">hirtelen kihajt vgay kirügyezik</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Descr">бычыр-бычыр</l>
+     <stg>
+       <st Contlex="DESCR_">бычыр-бычыр</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="Descr">hevesen</t>
+       <t pos="Descr">hirtelen kihajt vagy kirügyezik</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Descr">hirtelen elönti az izzadság</t>
+     </tg>
+   </mg>
+   <mg>
+     <tg xml:lang="hun">
+       <t pos="Descr">ömlik a könnye</t>
      </tg>
    </mg>
 </e>

@@ -2,7 +2,7 @@
 <r id="udmhun" xml:lang="udm">
 <e>
    <lg>
-     <l pos="GER">быгатыса</l>
+     <l pos="Ger">быгатыса</l>
      <stg>
        <st Contlex="GER_">быгатыса</st>
      </stg>
@@ -10,15 +10,15 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="GER">tudva</t>
+       <t pos="Ger">tudva</t>
 
-       <t pos="GER">értve hozzá</t>
+       <t pos="Ger">értve hozzá</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="GER">бызьыса</l>
+     <l pos="Ger">бызьыса</l>
      <stg>
        <st Contlex="GER_">бызьыса</st>
      </stg>
@@ -26,21 +26,21 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="GER">futva</t>
+       <t pos="Ger">futva</t>
      </tg>
    </mg>
 
    <mg>
      <tg xml:lang="hun">
-       <t pos="GER"> folyva</t>
+       <t pos="Ger">folyva</t>
 
-       <t pos="GER">áramolva</t>
+       <t pos="Ger">áramolva</t>
      </tg>
    </mg>
 </e>
 <e>
    <lg>
-     <l pos="GER">бызьытэк</l>
+     <l pos="Ger">бызьытэк</l>
      <stg>
        <st Contlex="GER_">бызьытэк</st>
      </stg>
@@ -48,7 +48,7 @@
    <mg>
      <defNative/>
      <tg xml:lang="hun">
-       <t pos="GER">futás nélkül</t>
+       <t pos="Ger">futás nélkül</t>
      </tg>
    </mg>
 </e>

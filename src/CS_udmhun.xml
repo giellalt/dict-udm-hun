@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<r id="udmhun" xml:lang="udm">
+<e>
+   <lg>
+     <l pos="CS">агар</l>
+     <stg>
+       <st Contlex="CS_">агар</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="CS">ha</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">айкась</l>
+     <stg>
+       <st Contlex="CS_">айкась</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="CS">bár</t>
+
+       <t pos="CS">annak ellenére, hogy</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">бере</l>
+     <stg>
+       <st Contlex="CS_">бере</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="CS">ha</t>
+
+       <t pos="CS">mivel</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="CS">будьто</l>
+     <stg>
+       <st Contlex="CS_">будьто</st>
+     </stg>
+   </lg>
+   <mg>
+     <defNative/>
+     <tg xml:lang="hun">
+       <t pos="CS">mintha</t>
+     </tg>
+   </mg>
+</e>
+</r>
